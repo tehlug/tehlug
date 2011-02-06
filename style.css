@@ -1,0 +1,310 @@
+* {
+	margin: 0;
+	padding: 0;
+	direction: rtl;
+}
+
+body {
+	font-family: "DejaVu Sans";
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #2D50FF;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	border: 0;
+}
+
+.bullet {
+	list-style: disc inside none;
+}
+
+
+.clear {
+	clear: both;
+}
+
+#container {
+	width: 100%;
+}
+
+#menu_container {
+	background-color: #BD0000;
+	border-bottom: 5px solid #333333;
+	width: 100%;
+	height: 53px;
+	display: table;
+	width: 100%;
+	background-image: url('images/header.png');
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+
+#menu_container>* {
+	margin-top: 15px;
+}
+
+#menu {
+	display: table;
+	margin-right: 10px;
+	height: 100%;
+	float: right;
+}
+
+#menu li {
+	float: right;
+	padding-left: 3px;
+	padding-right: 3px;
+	margin-left: 20px;
+}
+
+#menu li a {
+	color: #fff;
+}
+
+#menu li:hover {
+	background-color: #800102;
+}
+
+#menu li:hover a {
+	background-color: #800102;
+	color: #FFFF00;
+}
+
+#search_box {
+	float: left;
+	margin-left: 10px;
+}
+
+#content {
+	display: table;
+	width: 97%;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.dialog {
+	width: 47%;
+	margin-bottom: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	text-align: right;
+}
+
+.dialog.center {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.box {
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: bold;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	padding: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.orange, .subject {
+	background-color: #FDB144;
+}
+
+.blue {
+	background-color: #3465A4;
+}
+
+.green {
+	background-color: #A5C85B;
+}
+
+.yellow {
+	background-color: #BECA0D;
+}
+
+.quote {
+	padding: 10px;
+	padding-left: 40px;
+	background-image: url('images/quotation.png');
+	background-repeat: no-repeat;
+	background-position: 10px 10px;
+	background-color: #eee;
+	display: table;
+	margin: 10px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+}
+
+.map {
+	background-image: url('images/map.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 527px;
+	height: 300px;
+	background-color: #eee;
+	border: 1px dashed black;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+}
+
+.entries {
+	padding: 0;
+}
+
+.entry {
+	background-color: #eee;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	font-size: 16px;
+	width: 80%;
+}
+
+.entry .date {
+	font-size: 10px;
+	float: left;
+}
+
+.title {
+	display: none;
+}
+
+.type {
+	display: none;
+}
+
+.date {
+	font-size: 10px;
+}
+
+.results>li {
+	width: 40%;
+	display: table;
+	padding: 3px;
+	margin: 15px;
+}
+
+.results>li .description{
+	text-decoration: italic;
+	text-align: center;
+}
+
+.results .title {
+	display: inline;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.results .date {
+	float: left;
+	font-size: 14px;
+}
+
+.results .body {
+	font-size: 17px;
+}
+
+.attachment {
+	display: block;
+	border: 1px solid #eee;
+	background-color: #eee;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	background-image: url('images/attachment.png');
+	background-repeat: no-repeat;
+	background-position: top right;
+	padding-top: 7px;
+	padding-left: 10px;
+	padding-right: 36px;
+	height: 28px;
+	display: table;
+	margin: 5px;
+}
+
+.itembar {
+	display: block;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.notice {
+	display: block;
+	border: 1px dashed #FFB751;
+	background-color: #FFFC96;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	background-image: url('images/notice.png');
+	background-repeat: no-repeat;
+	background-position: top right;
+	padding-top: 7px;
+	padding-left: 10px;
+	padding-right: 36px;
+	height: 28px;
+	display: table;
+	margin: 15px;
+}
+
+p {
+	margin-right: 10px;
+}
+
+.subject {
+	color: #000;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	padding: 10px;
+	margin-top: 10px;
+	font-size: 25px;
+	font-weight: bold;
+	display: table;
+}
+
+.members {
+	margin-top: 15px;
+	margin-right: 15px;
+	display: table;
+}
+
+#content > .date {
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	font-size: 15px;
+}
+
+.photo {
+	max-width: 500px;
+	max-height: 400px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 10px;
+}
+
+#footer {
+	font-size: 11px;
+	text-align: center;
+	font-weight: bold;
+	direction: ltr;
+}
