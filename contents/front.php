@@ -64,9 +64,8 @@
 			جلسه بعدی
 	</div>
 	
-<div style="width: 90%; text-align: right; margin-left: auto; margin-right: auto;">
-	<img src="images/kde-debian-release-party.png" style="margin-left: auto; margin-right: auto;" />
-	<br />
+<div style="width: 90%; text-align: right; margin-left: auto; margin-right: auto; text-align: justify;">
+	<img src="images/kde-debian-release-party.png" style="margin-right: 10px; float: left;" />
 	به مناسبت انتشار نسخه جدید سیستم‌عامل دبیان، موسوم به دبیان ۶.۰ «اسکوئیز» و انتشار نسخه ۴.۶.۰ پروژه کی‌دی‌، تهران‌لاگ جشنی در کافه پراگ واقع در بلوار کشاورز تدارک دیده‌است.
 <br />
 شرکت کردن در این جشن انتشار برای عموم آزاد است.
