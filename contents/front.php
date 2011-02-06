@@ -47,7 +47,7 @@
 <div class="clear"></div>
 
 <div class="dialog center" style="float: right;">
-	<div class="blue box">
+	<div class="yellow box">
 			محل برگزاری جلسات		
 	</div>
   	<div class="map"></div>
@@ -60,7 +60,7 @@
 </div>
 
 <div class="dialog" style="float: left;">
-	<div class="yellow box">
+	<div class="blue box">
 			جلسه بعدی
 	</div>
 	
