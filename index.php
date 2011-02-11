@@ -19,7 +19,7 @@ include_once('functions.php');
 
 					<div id="search_box">
 						<form action="index.php?page=search" method="POST">
-							<input type="text" name="keywords" value="<?php echo $_POST['keywords']; ?>" />
+							<input type="text" name="keywords" value="<?php if(isset($_POST['keywords'])) { echo $_POST['keywords']; } ?>" />
 							<input type="submit" name="submit" value="جستجو" />
 						</form>
 					</div>
