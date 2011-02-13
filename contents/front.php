@@ -63,8 +63,8 @@
 			معرفی کتاب
 	</div>
 	
-<div style="width: 90%; text-align: right; margin-left: auto; margin-right: auto;">
-	<img src="images/free_society.jpg" style="float: left; margin: 3px;" />
+<div style="width: 90%; text-align: justify; margin-left: auto; margin-right: auto;">
+	<img src="images/free_society.jpg" style="float: left; margin-right: 15px;" />
 دانلود <a href="http://gnu.org/philosophy/fsfs/rms-essays.pdf">نسخه‌ای</a> از کتاب درخشان «نرم افزار آزاد، جامعه‌ی آزاد».	
 	<br />
 	<br />
@@ -72,5 +72,8 @@
 	<br />
 	<br />
 	این کتاب به سه بخش اصلی در مورد پروژه گنو و بنیاد نرم افزار آزاد، کپی-لفت، کپی-رایت و پتنت‌ها و جامعه‌ی آزاد و یک بخش فرعی در مورد لایسنس‌های نرم افزاری تقسیم میشود.		
+	<br />
+	<br />
+	مقدمه این کتاب توسط بهنام بهجت‌مرندی ترجمه شده و در سایت فارسی گنو <a href="http://www.gnu.org/philosophy/lessig-fsfs-intro.fa.html">در دسترس است.</a> 
 	</div>
 </div>
