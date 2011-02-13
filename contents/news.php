@@ -21,7 +21,11 @@ $news = getEntries('News');
 
 			<div class="body">
 				<?php
-				echo implode(' ', array_slice(explode(' ', $item->body), 0, 20)).'...';
+				$body = $item->body;
+				if(is_array($body))
+					$body = implode('', $item->body);
+
+				echo implode(' ', array_slice(explode(' ', $body), 0, 20)).'...';
 				?>
 			</div>
 		</li>
