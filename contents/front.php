@@ -23,13 +23,15 @@
 
 	<ul class="entries">
 		<?php
+		$next = getNextSession();
+
 		foreach(getEntries(Null, 6) as $entry) {
 			echo '<li class="entry">';
 
-			echo '<a href="index.php?page=entries/'.$entry->id.'">';
-
-			if($entry == getNextSession())
+			if($entry == $next)
 				echo 'جلسه بعدی:';
+
+			echo '<a href="index.php?page=entries/'.$entry->id.'">';
 
 			echo $entry->title;
 
@@ -54,9 +56,6 @@
 گروه کاربران لینوکس تهران هر دو هفته یکبار در روز سه‌شنبه از ساعت ۱۷ الی ۱۹ جلسه برگزار میکند. 	
 آدرس محل برگزاری جلسه: تهران، تقاطع خیابان کارگر (جنوبی) و جمهوری اسلامی - فرهنگسرای فن آوری اطلاعات.
 <br />
-<b>جلسات گروه به علت پاره‌ای از مشکلات موقتا برگزار نمیشوند. </b>
-
-	<br />
 </div>
 
 <div class="dialog" style="float: left;">
