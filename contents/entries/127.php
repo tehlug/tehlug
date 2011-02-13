@@ -3,7 +3,7 @@
 </div>
 
 <div class="title">
-	جلسه‌ی یکصد و بیست و ششم
+	جلسه‌ی یکصد و بیست و هفتم
 </div>
 
 <div class="subject">
