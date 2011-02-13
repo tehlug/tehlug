@@ -64,7 +64,10 @@
 		$last = current(getEntries('Session', 1));
 		$now = time();
 
-		$timestamp = strtotime($last->date);
+		include_once('jdf.php');
+		$parts = explode('/', $last->date);
+		$timestamp = jmaketime(0,0,0,$parts[1],$parts[2],$parts[0]);	
+
 		if($timestamp >= $now)
 			return $last;
 	}
