@@ -4,6 +4,9 @@
 	direction: rtl;
 }
 
+@font-face { font-family: Nazli; src: url('fonts/Nazli.ttf'); }
+@font-face { font-family: Titr; font-weight: bold; src: url('fonts/Titr.ttf'); }
+
 body {
 	font-family: "Nazli", arial, verdana, arial, helvetica, clean, sans-serif;
 	font-size: 20px;
