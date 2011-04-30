@@ -5,7 +5,8 @@
 }
 
 body {
-	font-family: "DejaVu Sans";
+	font-family: "Nazli", arial, verdana, arial, helvetica, clean, sans-serif;
+	font-size: 20px;
 }
 
 a, a:visited {
@@ -41,6 +42,7 @@ img {
 	height: 53px;
 	display: table;
 	width: 100%;
+	font-family: "Titr", arial, verdana, arial, helvetica, clean, sans-serif;
 	background-image: url('images/header.png');
 	background-repeat: no-repeat;
 	background-position: top right;
@@ -174,12 +176,12 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 10px;
-	font-size: 16px;
+	font-size: 20px;
 	width: 80%;
 }
 
 .entry .date {
-	font-size: 10px;
+	font-size: 16px;
 	float: left;
 }
 
@@ -192,7 +194,7 @@ img {
 }
 
 .date {
-	font-size: 10px;
+	font-size: 16px;
 }
 
 .results>li {
@@ -215,7 +217,7 @@ img {
 
 .results .date {
 	float: left;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 .results .body {
@@ -303,7 +305,8 @@ p {
 }
 
 #footer {
-	font-size: 11px;
+	font-size: 14px;
+	font-family: arial, verdana, arial, helvetica, clean, sans-serif;
 	text-align: center;
 	font-weight: bold;
 	direction: ltr;
