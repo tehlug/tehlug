@@ -7,6 +7,7 @@ include_once('functions.php');
 
 		<meta http-equiv="content-type" content="text-html; charset=UTF-8" />
 		<link rel="stylesheet" href="style.css" />
+		<link rel="alternate" type="application/rss+xml" href="rss.php" />
 		<link rel="icon" href="images/favicon.png" />
 	</head>
 	<body>

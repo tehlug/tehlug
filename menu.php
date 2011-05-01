@@ -29,4 +29,9 @@
 			سوالات متداول
 		</a>
 	</li>
+	<li>
+		<a href="index.php?page=promo">
+			معرفی به دیگران 
+		</a>
+	</li>
 </ul>
