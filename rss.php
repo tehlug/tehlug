@@ -22,7 +22,7 @@ $baseUrl = 'http://'.str_replace('rss.php', Null, $_SERVER['HTTP_HOST'].$_SERVER
 				<![CDATA[
 				<div dir="rtl">
 					<?php if($entry->type == 'Session') { ?>
-		تاریخ برگزاری جلسه: <?php echo $entry->date; ?>
+		تاریخ برگزاری جلسه: <?php echo toPersian($entry->date); ?>
 						<br />
 	موضوع: <?php echo $entry->subject; ?>
 						<br />
