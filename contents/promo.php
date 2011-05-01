@@ -9,4 +9,4 @@
 <br />
 کد آماده برای استفاده:
 <br />
-<textarea style="width: 450px; height: 100px;" readonly="readonly"><a href="http://tehlug.org"><img src="images/banner.png" alt="گروه کاربران لینوکس تهران" title="گروه کاربران لینوکس تهران" /></a></textarea>
+<textarea style="width: 450px; height: 100px;" readonly="readonly"><a href="http://tehlug.org"><img src="http://tehlug.org/images/banner.png" alt="گروه کاربران لینوکس تهران" title="گروه کاربران لینوکس تهران" /></a></textarea>
