@@ -19,6 +19,10 @@
 <div class="dialog" style="float: left;">
 	<div class="orange box">
 		برد خبری
+
+		<a href="rss.php">
+			<img src="images/rss.png" alt="RSS Feed" title="RSS Feed" style="float: left;" />
+		</a>
 	</div>
 
 	<ul class="entries">
@@ -31,7 +35,7 @@
 			if($entry == $next)
 				echo 'جلسه بعدی:';
 
-			echo '<a href="index.php?page=entries/'.$entry->id.'">';
+			echo '<a href="'.$entry->url.'">';
 
 			echo $entry->title;
 

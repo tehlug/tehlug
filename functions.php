@@ -32,14 +32,16 @@
 	}
 
 	function getEntry($id) {
+		$path = ENTRIES_DIRECTORY.'/'.$id.'.php';
 		$dom = New DOMDocument;
-		$dom->loadHTML('<?xml version="1.0" encoding="UTF-8"?>'.file_get_contents(ENTRIES_DIRECTORY.'/'.$id.'.php'));
+		$dom->loadHTML('<?xml version="1.0" encoding="UTF-8"?>'.file_get_contents($path));
 
 		$xpath = New DOMXPath($dom);
 
 		
 		$entry = New stdClass;
 		$entry->id = $id;
+		$entry->path = $path;
 
 		foreach($xpath->query('//*[@class]') as $element) {
 			$attributeName = $element->attributes->getNamedItem('class')->value;
@@ -57,18 +59,18 @@
 					$entry->$attributeName = trim($element->textContent);
 		}
 
+		include_once('jdf.php');
+		$parts = explode('/', $entry->date);
+		$entry->timestamp = jmaketime(0,0,0,$parts[1],$parts[2],$parts[0]);
+		$entry->url = 'index.php?page=entries/'.$entry->id;
+
 		return $entry;
 	}
 
 	function getNextSession() {
 		$last = current(getEntries('Session', 1));
-		$now = time();
 
-		include_once('jdf.php');
-		$parts = explode('/', $last->date);
-		$timestamp = jmaketime(0,0,0,$parts[1],$parts[2],$parts[0]);	
-
-		if($timestamp >= $now)
+		if($last->timestamp >= time())
 			return $last;
 	}
 
