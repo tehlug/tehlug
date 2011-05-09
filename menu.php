@@ -31,7 +31,12 @@
 	</li>
 	<li>
 		<a href="index.php?page=promo">
-			معرفی به دیگران 
+			معرفی به دیگران
+		</a>
+	</li>
+	<li>
+		<a href="index.php?page=sisters">
+			لاگ های دیگر
 		</a>
 	</li>
 </ul>
