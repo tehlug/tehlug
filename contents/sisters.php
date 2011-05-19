@@ -2,7 +2,7 @@
 	<img src="images/lugs/isflug.jpg" class="photo" />
 </a>
 
-<a href="http://gullug.org/news.php">
+<a href="http://guilug.org/">
 	<img src="images/lugs/guilug.jpg" class="photo" />
 </a>
 
