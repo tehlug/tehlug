@@ -3,7 +3,7 @@
 </a>
 
 <a href="http://guilug.org/">
-	<img src="images/lugs/guilug.jpg" class="photo" />
+	<img src="images/lugs/guilug.png" class="photo" />
 </a>
 
 <a href="http://tabrizlug.org/neo/">
