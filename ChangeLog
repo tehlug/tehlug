@@ -1,0 +1,226 @@
+2011-05-22  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/138.php: 138 minor fixes.
+
+2011-05-19  Behnam Tavakkoli <b.tavakkoli@gmail.com>
+
+  * contents/sisters.php: edit lug link
+
+  * contents/entries/138.php: add new session news
+
+  * contents/sisters.php: edit lug link
+
+2011-05-17  Behnam Tavakkoli <b.tavakkoli@gmail.com>
+
+  * contents/entries/137.php: tozihe jalase hamrah ba ezafe kardane asami
+
+2011-05-11  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/front.php: minor fixes to front-page (session time, address).
+
+2011-05-10  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/sisters.php, contents/tehlug.php, images/lugs/guilug.jpg,
+  images/lugs/isflug.jpg, images/lugs/karajlug.png, images/lugs/khuzlug.png,
+  images/lugs/mashlug.jpg, images/lugs/tablug.jpg, images/lugs/yazdlug.jpg,
+  menu.php: tehlug staff page update. sisters (other lugs in Iran) added to
+  front page.
+
+2011-05-08  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/137.php: 137 session update.
+
+2011-05-02  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/promo.php: absolute url to banner
+
+  * rss.php: persian dates on rss
+
+2011-05-02  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/news_4.php, fonts/FreeFarsi.ttf, fonts/Nazli.ttf,
+  style.css: Font fixes (Nazli->FreeFarsi), RSS/Banners news addition.
+
+2011-05-02  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/promo.php, images/banner.png, images/banner.svg, menu.php: promo
+  image
+
+2011-05-01  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/front.php, functions.php, images/rss.png, index.php, rss.php: RSS
+  Feed yay
+
+2011-04-30  Emil Sedgh <emilsedgh@gmail.com>
+
+  * fonts/Nazli.ttf, fonts/Titr.ttf, style.css: Adding Nazli and Titr fonts and
+  using css3's @font-face to load them.
+
+2011-04-30  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/136.php, contents/entries/137.php: 137 added. some minor
+  modifications to 136.
+
+  * style.css: font fixes.
+
+2011-04-27  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/136.php: ezafe kardane gozareshe jalase va asami
+  sherkat'konandegan va ghrar'dadne presentation
+
+2011-04-25  Behnam Tavakkoli <b.tavakkoli@gmail.com>
+
+  * contents/entries/135.php: kamel kardane liste asami sherkat-konandegan VA
+  tashihe ghalat'haye emlayi
+
+2011-04-24  root <root@ubuntu.(none)>
+
+  * contents/entries/136.php: minor fixes to 136. #2
+
+  * contents/entries/133.php, contents/entries/134.php,
+  contents/entries/135.php, contents/entries/136.php: minor fix to 136.
+
+  * contents/entries/135.php, contents/entries/136.php: minor fixes. 135, 136
+  added to sessions. cleanup required.
+
+2011-03-21  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/front.php: link to the persian article
+
+2011-03-14  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/134.php: session 134 topic fixes.
+
+  * contents/entries/134.php: session 134 data added.
+
+2011-02-17  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/133.php: 133 session info updated.
+
+2011-02-16  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/front.php: Gay is not the writer. Behnam asked me to remove it
+
+2011-02-14  ashkan <ashkan@ws1.local>
+
+  * contents/entries/news_3.php: broken release party photo links fix.
+
+2011-02-14  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/news.php: make sure we wont pass array to explode()
+
+2011-02-14  ashkan <ashkan@ws1.local>
+
+  * contents/front.php, contents/list.php: mailing list address fixes. set to
+  general's page by default.
+
+  * contents/entries/100.php, contents/entries/101.php,
+  contents/entries/102.php, contents/entries/103.php, contents/entries/104.php,
+  contents/entries/105.php, contents/entries/106.php, contents/entries/107.php,
+  contents/entries/108.php, contents/entries/115.php, contents/entries/117.php,
+  contents/entries/118.php, contents/entries/119.php, contents/entries/123.php,
+  contents/entries/124.php, contents/entries/125.php, contents/entries/133.php,
+  contents/entries/news_1.php, contents/entries/news_3.php,
+  .../debian_kde_release_party_IMG_0031.CR2.jpg,
+  .../debian_kde_release_party_IMG_0032.CR2.jpg,
+  .../debian_kde_release_party_IMG_0034.CR2.jpg,
+  .../debian_kde_release_party_IMG_0037.CR2.jpg,
+  .../debian_kde_release_party_IMG_0038.CR2.jpg,
+  .../debian_kde_release_party_IMG_0040.CR2.jpg,
+  .../debian_kde_release_party_IMG_0041.CR2.jpg,
+  .../debian_kde_release_party_IMG_0042.CR2.jpg,
+  .../debian_kde_release_party_IMG_0043.CR2.jpg,
+  .../debian_kde_release_party_IMG_0044.CR2.jpg,
+  .../debian_kde_release_party_IMG_0048.CR2.jpg,
+  .../debian_kde_release_party_IMG_0054.CR2.jpg,
+  .../debian_kde_release_party_IMG_0059.CR2.jpg,
+  .../debian_kde_release_party_IMG_0064.CR2.jpg,
+  .../debian_kde_release_party_IMG_0065.CR2.jpg,
+  .../debian_kde_release_party_IMG_0067.CR2.jpg,
+  .../debian_kde_release_party_IMG_0071.CR2.jpg,
+  .../debian_kde_release_party_IMG_0074.CR2.jpg,
+  .../debian_kde_release_party_IMG_0076.CR2.jpg,
+  .../debian_kde_release_party_IMG_0079.CR2.jpg,
+  .../debian_kde_release_party_IMG_0080.CR2.jpg,
+  .../debian_kde_release_party_IMG_0081.CR2.jpg,
+  .../debian_kde_release_party_IMG_0082.CR2.jpg,
+  .../debian_kde_release_party_IMG_0083.CR2.jpg,
+  .../debian_kde_release_party_IMG_0084.CR2.jpg,
+  .../debian_kde_release_party_IMG_0087.CR2.jpg,
+  .../debian_kde_release_party_IMG_0088.CR2.jpg,
+  .../debian_kde_release_party_IMG_0089.CR2.jpg,
+  .../debian_kde_release_party_IMG_0095.CR2.jpg,
+  .../debian_kde_release_party_IMG_0098.CR2.jpg: minor format fixes.
+  kde-debian-release-party photos and news added.
+
+2011-02-13  ashkan <ashkan@ws1.local>
+
+  * contents/entries/127.php, contents/entries/133.php,
+  contents/entries/news_1.php, contents/entries/news_2.php, contents/faqs.php,
+  contents/front.php, contents/list.php: fixed spelling typos. added tehlug
+  announcement and schedule. 127to133 counter fix.
+
+2011-02-13  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/front.php: removing behnam's name. he doesnt like it
+
+  * contents/front.php: adding link to translated article by behnam
+
+  * contents/entries/127.php: changing session title to 127'th session
+
+  * contents/tehlug.php: giving title to the tehlug page
+
+  * contents/entries/127.php: adding entry for next week's entry. i reserverd
+  126'th session for last weeks release party. waiting for irix to give us
+  photos
+
+  * contents/front.php: dont call getNextSession() each time. move 'Next
+  session' outside the link. removing the notice that we have no more sessions.
+  we have
+
+  * functions.php, jdf.php: jalali parser so that we understand dates properly
+
+2011-02-11  Emil Sedgh <emilsedgh@gmail.com>
+
+  * index.php: isset to stop notice
+
+2011-02-08  tehlug <tehlug@li78-196.members.linode.com>
+
+  * .gitignore: added .gitignore
+
+2011-02-07  ashkan <ashkan@ws1.local>
+
+  * contents/front.php: kde-debian-release-party time and date addition to
+  front page.
+
+  * contents/front.php, images/kde-debian-release-party.png:
+  debian-kde-release-party fix.
+
+2011-02-07  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/front.php: color balance
+
+  * contents/front.php, images/kde-debian-release-party.png: proper layout
+
+  * contents/front.php: typo
+
+  * contents/front.php, images/eyKoV.png, images/kde-debian-release-party.png:
+  show kde and debian's release party info
+
+2011-02-06  tehlug <tehlug@li78-196.members.linode.com>
+
+  * contents/entries/100.php, contents/entries/101.php,
+  contents/entries/102.php, contents/entries/103.php, contents/entries/104.php,
+  contents/entries/105.php, contents/entries/106.php, contents/entries/107.php,
+  contents/entries/108.php, contents/entries/115.php, contents/entries/117.php,
+  contents/entries/118.php, contents/entries/119.php, contents/entries/122.php,
+  contents/entries/123.php, contents/entries/124.php, contents/entries/125.php,
+  contents/entries/news_1.php, contents/faqs.php, contents/front.php,
+  contents/list.php, contents/news.php, contents/search.php,
+  contents/sessions.php, contents/tehlug.php, files/asasname-0.6.pdf,
+  files/tehlug.resume-new.pdf, functions.php, images/attachment.png,
+  images/eyKoV.png, images/favicon.png, images/free_society.jpg,
+  images/header.png, images/installfest_122nd_session_poster.png,
+  images/map-techanis.png, images/map.png, images/notice.png,
+  images/quotation.png, index.php, menu.php, photos/luggers.jpg, style.css:
+  Initial import
