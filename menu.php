@@ -39,4 +39,9 @@
 			لاگ های دیگر
 		</a>
 	</li>
+	<li>
+		<a href="http://webchat.freenode.net/?randomnick=1&channels=tehlug&prompt=1&uio=d4">
+			گفتگوی زنده
+		</a>
+	</li>
 </ul>
