@@ -26,5 +26,9 @@
 	<img src="images/lugs/karajlug.png" class="photo" />
 </a>
 
+<a href="http://www.zanjanlug.org/">
+	<img src="images/lugs/zanjanlug.png" class="photo" />
+</a>
+
 <br />
 <br />
