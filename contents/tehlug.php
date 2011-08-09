@@ -28,10 +28,12 @@
 <br />
 <br />
  <ul class="bullet">
-<li><a href="mailto:behnam@tehlug.org">بهنام توکلی کرمانی</a> (مسئول روابط عمومی، وب-سایت) </li>
-<li><a href="mailto:emilsedgh@tehlug.org">امیل صدق </a>(مسئول وب-سایت)</li>
-<li><a href="mailto:siavash@tehlug.org">سیاوش صفی</a>(وب-مستر)</li>
-<li><a href="mailto:ashkan@tehlug.org">اشکان قاسمی</a> (مسئول هماهنگی جلسات، وب-سایت)</li>
+<li><a href="mailto:abbas@gnu.org">عباس اسماعیلی</a></li>
+<li><a href="mailto:behnam@tehlug.org">بهنام توکلی کرمانی</a></li>
+<li><a href="mailto:sasan.rose@gmail.com">ساسان رز</a></li>
+<li><a href="mailto:emilsedgh@kde.org">امیل صدق </a></li>
+<li><a href="mailto:siavash@tehlug.org">سیاوش صفی</a></li>
+<li><a href="mailto:ashkan@tehlug.org">اشکان قاسمی</a></li>
 </ul>
 
 <span class="notice">در صورت تمایل برای تدریس در تهران-لاگ و یا همکاری با تیم گرداننده میتوانید با اعضای تیم گرداننده تماس حاصل کنید و یا در لیست پستی عضو شده و موضوع را با دیگر اعضای گروه درمیان بگذارید.
