@@ -34,6 +34,7 @@
 <li><a href="mailto:emilsedgh@kde.org">امیل صدق </a></li>
 <li><a href="mailto:siavash@tehlug.org">سیاوش صفی</a></li>
 <li><a href="mailto:ashkan@tehlug.org">اشکان قاسمی</a></li>
+<li><a href="mailto:behnam.b.marandi@gmail.com">بهنام مرندی</a></li>
 </ul>
 
 <span class="notice">در صورت تمایل برای تدریس در تهران-لاگ و یا همکاری با تیم گرداننده میتوانید با اعضای تیم گرداننده تماس حاصل کنید و یا در لیست پستی عضو شده و موضوع را با دیگر اعضای گروه درمیان بگذارید.
