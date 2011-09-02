@@ -49,6 +49,7 @@ img {
 	background-image: url('images/header.png');
 	background-repeat: no-repeat;
 	background-position: top right;
+	font-size: 15px;
 }
 
 #menu_container>* {
@@ -73,18 +74,39 @@ img {
 	color: #fff;
 }
 
-#menu li:hover {
-	background-color: #800102;
+#menu li:hover a {
+	color: #FFFF00;
 }
 
-#menu li:hover a {
-	background-color: #800102;
-	color: #FFFF00;
+#logout {
+	float: right;
+	border-bottom-left-radius: 5px;
+	padding: 5px;
+	text-align: center;
+	font-size: 15px;
+}
+
+#logout a {
+	color: black;
 }
 
 #search_box {
 	float: left;
 	margin-left: 10px;
+}
+
+#search_box input[type=text] {
+	background-color: transparent;
+	border: 1px dashed black;
+	color: white;
+}
+
+#search_box input[type=submit] {
+	background-color: transparent;
+	color: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 1px;
 }
 
 #content {
@@ -123,8 +145,16 @@ img {
 	margin-bottom: 10px;
 }
 
-.orange, .subject {
+.orange, .subject, .summary {
 	background-color: #FDB144;
+}
+
+.summary {
+	display: inline;
+	padding: 5px;
+	border-radius: 15px;
+	float: left;
+	font-size: 17px;
 }
 
 .blue {
@@ -171,7 +201,7 @@ img {
 	padding: 0;
 }
 
-.entry {
+.entry, .grid-view tbody tr {
 	background-color: #eee;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -283,6 +313,7 @@ p {
 	font-size: 25px;
 	font-weight: bold;
 	display: table;
+	text-align: center;
 }
 
 .members {
@@ -313,4 +344,70 @@ p {
 	text-align: center;
 	font-weight: bold;
 	direction: ltr;
+}
+
+.remove {
+	color: red;
+	font-size: 20px;
+	width: 20px;
+}
+
+#add_participant {
+	color: green;
+	font-size: 20px;
+}
+
+.files {
+	float: left;
+}
+
+.files>li {
+	text-align: center;
+	font-size: 11px;
+	border: 1px solid #BD0000;
+	border-radius: 5px;
+	padding: 2px;
+	margin: 5px;
+}
+
+.files>li a {
+	color: black;
+}
+
+.files>li:hover {
+	background-color: #BD0000;
+}
+
+.images {
+	float: left;
+}
+
+.images li {
+	margin: 2px;
+	float: left;
+	width: 180px;
+	height: 130px;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid black;
+	overflow: hidden;
+}
+
+.grid-view table {
+	width: 100%;
+}
+
+.grid-view table th {
+	background-color: #BD0000;
+	color: white;
+}
+
+.grid-view table th a {
+	color: white;
+	text-decoration: none;
+}
+
+.grid-view td, .grid-view th {
+	padding-right: 10px;
+	border-radius: 15px;
 }
