@@ -40,7 +40,7 @@ Class Member Extends CActiveRecord {
 	}
 
 	public function getLabel() {
-		return $this->name.' ('.$this->email.')';
+		return $this->name;
 	}
 
 	public function findByLabel($label) {
