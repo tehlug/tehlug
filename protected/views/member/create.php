@@ -18,7 +18,7 @@
 	<div class="row">
 		<?php echo $form->labelEx($model, 'password'); ?>
 		<br />
-		<?php echo $form->passwordField($model, 'password', array('value' => Null)); ?>
+		<?php echo $form->passwordField($model, 'password', array('value' => '')); ?>
 		<br />
 		<?php echo $form->error($model, 'password'); ?>
 	</div>
