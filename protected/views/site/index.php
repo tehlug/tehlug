@@ -63,13 +63,25 @@
 
 <div class="dialog" style="float: left;">
 	<?php
-	$page = Page::model()->findByAttributes(Array(
-		'url' => 'bottom_left'
+	$poll = Poll::model()->find(Array(
+		'condition' => 'start_date <= '.time().' AND end_date >= '.time(),
+		'order' => 'start_date DESC'
 	));
-	?>
-	<div class="yellow box">
-		<?php echo $page->title; ?>
-	</div>
+	if($poll) { ?>
+		<div class="yellow box">
+			<?php echo Yii::t('theme', 'Current open poll:'); ?>
+		</div>
+		<?php
+		$this->renderPartial('/poll/view', array('model' => $poll));
+	} else {
+		$page = Page::model()->findByAttributes(Array(
+			'url' => 'bottom_left'
+		));
+		?>
+		<div class="yellow box">
+			<?php echo $page->title; ?>
+		</div>
 
-	<?php echo $page->description; ?>
+		<?php echo $page->description; ?>
+	<?php } ?>
 </div>

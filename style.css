@@ -352,7 +352,7 @@ p {
 	width: 20px;
 }
 
-#add_participant {
+.add_button {
 	color: green;
 	font-size: 20px;
 }
@@ -410,4 +410,38 @@ p {
 .grid-view td, .grid-view th {
 	padding-right: 10px;
 	border-radius: 15px;
+}
+
+#answers li {
+	margin-bottom: 10px;
+}
+
+#answers input[type=radio] {
+	float: right;
+	margin-left: 10px;
+}
+
+.bar {
+	width: 200px;
+	height: 30px;
+	border: 1px solid #BECA0D;
+	border-radius: 5px;
+	color: black;
+	text-align: center;
+}
+
+.filled {
+	background-color: #BECA0D;
+	height: 100%;
+}
+
+.help {
+	float: left;
+	text-align: justify;
+	width: 400px;
+	margin-top: 20px;
+	background-color: rgba(190, 202, 13, 0.5);
+	border: 5px solid rgba(190, 202, 13, 1);
+	border-radius: 5px;
+	padding: 10px;
 }
