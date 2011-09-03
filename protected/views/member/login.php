@@ -1,4 +1,6 @@
-<?php $form = $this->beginWidget('CActiveForm'); ?>
+<?php $form = $this->beginWidget('CActiveForm', Array(
+	'action' => Yii::app()->createUrl('/member/login')
+)); ?>
 	<div class="row">
 		<?php echo $form->labelEx($model, 'email'); ?>
 		<br />
