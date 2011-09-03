@@ -78,7 +78,7 @@
 						?>
 					</li>
 				</ol>
-				<?php echo CHtml::button('+', Array('id' => 'add_participant')); ?>
+				<?php echo CHtml::button('+', Array('class' => 'add_button')); ?>
 			</fieldset>
 		</div>
 	<?php } ?>
@@ -90,7 +90,7 @@
 
 <script type="text/javascript">
 	$(document).ready(function() {
-		$('#add_participant').click(function() {
+		$('.add_button').click(function() {
 			$('#participants li:first').clone().appendTo('#participants').
 			find('input').val('').autocomplete({'source':'/tehlug/index.php/member/search'}).focus();
 		});
