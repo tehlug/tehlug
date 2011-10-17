@@ -7,7 +7,7 @@
 </div>
 
 <div class="subject">
-بررسی توززیع چاکرا
+بررسی توزیع چاکرا
 </div>
 
 <div class="date">
