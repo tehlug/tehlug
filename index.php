@@ -32,7 +32,12 @@ include_once('functions.php');
 				$page = (isset($_GET['page'])) ? $_GET['page'] : "front";
 
 				$page = 'contents/'.$page.'.php';
-				include($page);
+
+				//Make sure page is a subdir of contents
+				$realpath = realpath($page);
+				$contentsPath = realpath('./contents');
+				if(substr($realpath, 0, strlen($contentsPath)) === $contentsPath)
+					include($page);
 				?>
 			</div>
 
