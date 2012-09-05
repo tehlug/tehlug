@@ -6,7 +6,7 @@
 	<img src="images/lugs/guilug.png" class="photo" />
 </a>
 
-<a href="http://tabrizlug.org/neo/">
+<a href="http://tabrix.org/">
 	<img src="images/lugs/tablug.jpg" class="photo" />
 </a>
 
