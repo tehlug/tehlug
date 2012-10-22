@@ -38,7 +38,11 @@
 <li>محمد افاضاتی</li>
 </ul>
 
-
+<div align="center">
+<a href="../../photos/158/20121010_192512.jpg"><img src="../../photos/158/tehlug-158-1.jpg" border="0"></a>
+<br>
+<a href="../../photos/158/20121010_192703.jpg"><img src="../../photos/158/tehlug-158-2.jpg" border="0"></a>
+</div>
 
 
 <br />
