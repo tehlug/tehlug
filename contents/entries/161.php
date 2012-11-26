@@ -17,7 +17,7 @@
 <div class="body">
 این جلسه در روز سه‌شنبه مورخ ۳۰ آبان‌ماه ۱۳۹۱ از ساعت ۱۸ الی ۲۰ در محل موسسه کهکشان نور برگزار شد.<br />در این جلسه آقای محسن پهلوان‌زاده به بحث در مورد "مروری بر روی FreeSoftware، تاریخچه‌ی گنو/لینوکس و نگرش مبتنی بر این گونه سیستم‌ها" و سپس موضوع "فعالیت مجدد نشریه الکترونیکی ایران‌تاکس" پرداختد.<br /><br>
 <div align="center">
-<audio><source src="../../audios/91_08_30_Free_Software.ogg" type='audio/ogg; codecs="vorbis"'></audio>
+<audio controls><source src="../../audios/91_08_30_Free_Software.ogg" type='audio/ogg; codecs="vorbis"></audio>
 
 
 <a href="../../audios/91_08_30_Free_Software.ogg">دریافت فایل صوتی جلسه</a>
