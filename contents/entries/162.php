@@ -7,7 +7,7 @@
 </div>
 
 <div class="subject">
-"کدینگ‌های فشرده‌سازی"
+کدینگ‌های فشرده‌سازی
 </div>
 
 <div class="date">
