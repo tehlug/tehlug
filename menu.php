@@ -10,6 +10,11 @@
 		</a>
 	</li>
 	<li>
+		<a href="index.php?page=join">
+		 همکاری
+		</a>
+	</li>
+	<li>
 		<a href="index.php?page=sessions">
 			گزارش جلسات
 		</a>

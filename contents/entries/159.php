@@ -7,7 +7,7 @@
 </div>
 
 <div class="subject">
-ریمستر با Remastersys
+ریمستر با ریمستر-سیس
 </div>
 
 <div class="date">

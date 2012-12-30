@@ -28,11 +28,11 @@
 <br />
 <br />
  <ul class="bullet">
-<li><a href="mailto:abbas@gnu.org">عباس اسماعیلی</a></li>
+<li><a href="mailto:efazati@tehlug.org">محمد افاضاتی</a></li>
+<li><a href="mailto:mohsen@tehlug.org">محسن پهلوان‌زاده</a></li>
+<li><a href="mailto:mohammad@tehlug.org">محمد درویش</a></li>
 <li><a href="mailto:behnam@tehlug.org">بهنام توکلی کرمانی</a></li>
-<li><a href="mailto:sasan.rose@gmail.com">ساسان رز</a></li>
 <li><a href="mailto:emilsedgh@kde.org">امیل صدق </a></li>
-<li><a href="mailto:siavash@tehlug.org">سیاوش صفی</a></li>
 <li><a href="mailto:ashkan@tehlug.org">اشکان قاسمی</a></li>
 <li><a href="mailto:behnam.b.marandi@gmail.com">بهنام مرندی</a></li>
 </ul>

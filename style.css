@@ -6,7 +6,7 @@
 
 @font-face { font-family: FreeFarsi; src: url('fonts/FreeFarsi.ttf'); }
 @font-face { font-family: Titr; font-weight: bold; src: url('fonts/Titr.ttf'); }
-
+@font-face { font-family: XB Zar; font-weight: bold; src: url('fonts/XBZar.ttf'); }
 body {
 	font-family: "FreeFarsi", arial, verdana, arial, helvetica, clean, sans-serif;
 	font-size: 20px;
@@ -40,12 +40,13 @@ img {
 
 #menu_container {
 	background-color: #BD0000;
-	border-bottom: 5px solid #333333;
+	border-bottom: 3px solid #333333;
 	width: 100%;
 	height: 53px;
 	display: table;
 	width: 100%;
 	font-family: "Titr", arial, verdana, arial, helvetica, clean, sans-serif;
+	font-size: 15px;
 	background-image: url('images/header.png');
 	background-repeat: no-repeat;
 	background-position: top right;
