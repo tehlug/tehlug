@@ -16,6 +16,12 @@
 
 <div class="body">
 این جلسه در روز چهارشنبه مورخ ۱۹ مهرماه ۱۳۹۱ از ساعت ۱۷:۳۰ الی ۱۹:۳۰ در محل شرکت فناوران آنیسا برگزار شد.<br />در این جلسه آقای محمد افاضاتی به توضیح در مورد ایمکس و نکاتی در مورد کار کردن با این ویرایشگر پرداختند.<br /><br />
+<a href="photos/158/20121010_192512.jpg">
+   <img src="photos/158/tehlug-158-1.jpg" class="photo">
+</a>
+<a href="photos/158/20121010_192703.jpg">
+   <img src="photos/158/tehlug-158-2.jpg" class="photo">
+</a>
 </div>
 
 <ul class="members bullet">
@@ -36,10 +42,6 @@
 </ul>
 
 <div align="center">
-<a href="photos/158/20121010_192512.jpg"><img src="photos/158/tehlug-158-1.jpg" border="0"></a>
-<br>
-<a href="photos/158/20121010_192703.jpg"><img src="photos/158/tehlug-158-2.jpg" border="0"></a>
-</div>
 
 <br />
 <br />
