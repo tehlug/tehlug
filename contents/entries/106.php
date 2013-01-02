@@ -18,8 +18,8 @@
 جلسه یکصد و ششم تهران لاگ روز چهارشنبه بیست و ششم دی ماه سال ۱۳۸۶ در مرکز فناوری اطلاعات و ارتباطات پیشرفته دانشگاه شریف برگزار شد. در این جلسه آقای سیاوش صفی به آموزش برنامه نویسی در گنو/لینوکس به زبان ++C/C پرداختند.
 </div>
 
-<a href="http://tehlug.org/presentations/86_10_26_start_programming.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه  شده در جلسه</a>
-<a href="http://tehlug.org/presentations/86_10_26_start_programming.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
+<a href="/presentations/86_10_26_start_programming.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه  شده در جلسه</a>
+<a href="/presentations/86_10_26_start_programming.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
 
 <ul class="members bullet">
 <li>امیل صدق</li>

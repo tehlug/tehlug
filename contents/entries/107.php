@@ -18,8 +18,8 @@
 جلسه یکصد و هفتم تهران لاگ روز چهارشنبه دهم بهمن ماه سال ۱۳۸۶ در مرکز فناوری اطلاعات و ارتباطات پیشرفته دانشگاه شریف برگزار شد. در این جلسه آقای بهنام بهجت مرندی به معرفی پارسیکس ورژن ۱/۰ با نام رامون که اولین نسخه‌ی پایدار آن نیز محسوب میشود پرداختند.
 </div>
 
-<a href="http://tehlug.org/presentations/86_11_10_parsix.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه  شده در جلسه</a>
-<a href="http://tehlug.org/presentations/86_11_10_parsix.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
+<a href="/presentations/86_11_10_parsix.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه  شده در جلسه</a>
+<a href="/presentations/86_11_10_parsix.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
 
 <ul class="members bullet">
 <li>امیل صدق</li>

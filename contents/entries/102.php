@@ -18,7 +18,7 @@
 جلسه یکصد و دوم تهران لاگ روز چهارشنبه  سی‌ام آبان ماه سال ۱۳۸۶ در مرکز فناوری اطلاعات و ارتباطات پیشرفته دانشگاه شریف برگزار شد. در این جلسه آقای سیاوش صفی به معرفی میزکار گنوم و آینده‌ی آن پرداختند.
 </div>
 
-<a href="http://www.tehlug.org/presentations/86_8_30_gnome.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
+<a href="presentations/86_8_30_gnome.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
 
 <a href="photos/luggers">
 	<img src="photos/luggers.jpg" class="photo" />

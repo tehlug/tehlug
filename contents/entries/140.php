@@ -21,7 +21,7 @@
 </div>
 
 <br />
-<a href="http://tehlug.org/presentations/90_03_31_jcal.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
+<a href="/presentations/90_03_31_jcal.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
 <span class="notice">لیست شرکت کنندگان این جلسه موجود نیست.</span>
 
 <br />

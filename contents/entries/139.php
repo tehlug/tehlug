@@ -19,7 +19,7 @@
  </div>
 
 <br />
-<a href="http://tehlug.org/presentations/90_03_17_p2p_currency.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
+<a href="/presentations/90_03_17_p2p_currency.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
 
 <ul class="members bullet">
 <li>بهنام توکلی کرمانی</li>

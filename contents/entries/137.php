@@ -19,7 +19,7 @@
 
  </div>
 <br />
-<a href="http://www.tehlug.org/presentations/90_2_20_parsidora_fedora15.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
+<a href="/presentations/90_2_20_parsidora_fedora15.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
 
 <ul class="members bullet">
 <li>مسعود ابراهیمی</li>

@@ -18,8 +18,8 @@
 این جلسه روز سه‌شنبه، مورخ ۶ اردیبهشت سال ۱۳۹۰ در محل فرهنگسرای فن آوری اطلاعات برگزار شد. در این جلسه آقای اشکان قاسمی به معرفی و بررسی توزیع جنتو  و در انتها به کار کردن عملی در محیط آن پرداختند.
 </div>
 <br />
-<a href="http://www.tehlug.org/presentations/90_02_06_gentoo.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
-<a href="http://www.tehlug.org/presentations/90_02_06_gentoo.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
+<a href="/presentations/90_02_06_gentoo.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
+<a href="/presentations/90_02_06_gentoo.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف محتوای ارائه شده در جلسه</a>
 
 <ul class="members bullet">
 <li>حسن بحرینی</li>
