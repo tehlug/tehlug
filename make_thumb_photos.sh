@@ -19,7 +19,7 @@ function printk() {
     fi
 }
 
-echo -ne "${GREEN} Checking for ImageMagick... ${RESET}"
+echo -ne "${GREEN}checking for ImageMagick... ${RESET}"
 CONVERT=`which convert`
 stat=$?
 printk $stat
@@ -27,7 +27,7 @@ if [ $stat -ne 0 ]; then
 	exit 1
 fi
 
-echo -ne "${GREEN} Switching to photos directory... ${RESET}"
+echo -ne "${GREEN}switching to photos directory... ${RESET}"
 cd photos/
 stat=$?
 printk $stat
