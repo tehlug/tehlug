@@ -6,7 +6,7 @@
 	</li>
 	<li>
 		<a href="index.php?page=tehlug">
-		 تهران-لاگ
+		 تهران‌لاگ
 		</a>
 	</li>
 	<li>
