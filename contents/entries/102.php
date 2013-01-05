@@ -20,8 +20,8 @@
 
 <a href="presentations/86_8_30_gnome.odp" class="attachment">دانلود نسخه‌ی او-دی-پی محتوای ارائه شده در جلسه</a>
 
-<a href="photos/luggers">
-	<img src="photos/luggers.jpg" class="photo" />
+<a href="photos/luggers.jpg">
+	<img src="photos/luggers_thumb.jpg" class="photo" />
 </a>
 
 

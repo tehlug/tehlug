@@ -19,123 +19,123 @@
 <br/>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0031.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0031.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0031.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0048.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0048.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0048.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0080.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0080.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0080.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0032.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0032.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0032.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0054.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0054.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0054.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0081.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0081.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0081.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0034.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0034.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0034.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0059.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0059.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0059.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0082.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0082.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0082.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0037.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0037.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0037.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0064.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0064.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0064.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0083.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0083.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0083.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0038.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0038.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0038.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0065.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0065.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0065.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0084.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0084.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0084.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0040.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0040.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0040.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0067.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0067.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0067.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0087.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0087.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0087.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0041.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0041.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0041.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0071.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0071.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0071.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0088.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0088.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0088.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0042.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0042.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0042.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0074.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0074.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0074.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0089.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0089.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0089.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0043.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0043.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0043.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0076.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0076.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0076.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0095.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0095.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0095.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0044.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0044.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0044.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0079.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0079.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0079.CR2_thumb.jpg" class="photo" />
 </a>
 
 <a href="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0098.CR2.jpg">
-	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0098.CR2.jpg" class="photo" />
+	<img src="photos/kde-debian-release-party-2011/debian_kde_release_party_IMG_0098.CR2_thumb.jpg" class="photo" />
 </a>
 </div>
 <br />
