@@ -1,3 +1,13 @@
+2013-01-11  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * ChangeLog, contents/entries/165.php, files/asasname-0.6.pdf,
+  gitlog2changelog, images/attachment.png, images/eyKoV.png,
+  images/favicon.png, images/free_society.jpg, images/header.png,
+  images/installfest_122nd_session_poster.png, images/map-dpi.png,
+  images/map-techanis.png, images/notice.png, images/quotation.png,
+  photos/luggers.jpg: 165 added to source tree. gitlog2changelog script added.
+  execute permission on misc files fixed.
+
 2013-01-06  Ashkan Ghassemi <ghassemi@ftml.net>
 
   * contents/front.php, contents/join.php, contents/list.php,
