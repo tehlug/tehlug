@@ -1,3 +1,411 @@
+2013-01-06  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/front.php, contents/join.php, contents/list.php,
+  contents/tehlug.php, menu.php: minor fixes to pages replacing
+  tehran<hyphen>lug with tehran<zwnj>lug.
+
+  * contents/front.php, make_thumb_photos.sh: minor fixes to front page and
+  thumbnail script.
+
+2013-01-05  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * .gitignore: getting rid of stupid .DS_Store files of Apple Mac OS X(tm) (C)
+  fubared fucking steve jobs
+
+  * contents/entries/102.php, contents/entries/158.php,
+  contents/entries/162.php, contents/entries/164.php,
+  contents/entries/news_3.php, contents/entries/news_6.php,
+  make_thumb_photos.sh, photos/158/20121010_192512_thumb.jpg,
+  photos/158/20121010_192703_thumb.jpg, photos/158/tehlug-158-1_thumb.jpg,
+  photos/158/tehlug-158-2_thumb.jpg, photos/162/tehlug-162_thumb.jpg,
+  photos/164/tehlug-164_thumb.jpg,
+  ...debian_kde_release_party_IMG_0031.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0032.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0034.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0037.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0038.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0040.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0041.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0042.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0043.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0044.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0048.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0054.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0059.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0064.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0065.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0067.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0071.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0074.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0076.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0079.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0080.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0081.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0082.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0083.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0084.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0087.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0088.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0089.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0095.CR2_thumb.jpg,
+  ...debian_kde_release_party_IMG_0098.CR2_thumb.jpg, photos/luggers_thumb.jpg:
+  Thumbnails are now generated using make_thumb_photos.sh script. just invoke
+  it to automagically get new thumbnails for every image located in photos
+  directory. Set proper values for imgsrc to thumbnails instead of the original
+  file. Set proper href value to original file. local ImageMagick installation
+  is required.
+
+2013-01-02  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/158.php, contents/entries/162.php,
+  contents/entries/164.php, photos/164/tehlug-164.jpg: 164 session photo added
+
+  * contents/entries/100.php, contents/entries/101.php,
+  contents/entries/102.php, contents/entries/103.php, contents/entries/104.php,
+  contents/entries/106.php, contents/entries/107.php, contents/entries/118.php,
+  contents/entries/134.php, contents/entries/135.php, contents/entries/136.php,
+  contents/entries/137.php, contents/entries/139.php, contents/entries/140.php,
+  contents/entries/145.php, contents/entries/146.php, contents/entries/148.php,
+  contents/entries/149.php, contents/entries/150.php, contents/entries/151.php,
+  contents/entries/152.php, contents/entries/153.php, contents/entries/155.php,
+  contents/entries/156.php, contents/entries/157.php, contents/entries/158.php,
+  contents/entries/159.php, contents/entries/160.php, contents/entries/161.php,
+  contents/entries/162.php, contents/entries/163.php, contents/entries/164.php:
+  164 and 163 updated. minor changes and fixes to all other sessions.
+
+2012-12-31  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/front.php: minor fixes to front page NTH.
+
+  * contents/front.php: small typo in NTA front: US instead of America
+
+  * contents/front.php, files/solove.pdf, images/ingsoc.jpg: nothing to hide
+  argument article added to front page
+
+  * contents/join.php: small typo in join page fixed.
+
+  * contents/entries/149.php, contents/entries/155.php,
+  contents/entries/156.php, contents/entries/158.php, contents/entries/159.php,
+  contents/entries/160.php, contents/entries/161.php, contents/join.php,
+  contents/list.php, contents/tehlug.php, menu.php, style.css: join page added
+  to menu. English transliteration for technical terminology changed to Farsi.
+  Mailing list rules and about Tehlug pages updated. Menu items are now
+  smaller.
+
+2012-12-30  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/162.php, contents/entries/164.php: slight changes to 162
+  and 164
+
+  * contents/entries/163.php, contents/entries/164.php: 164 added to tree. 163
+  edited.
+
+2012-12-23  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/158.php, contents/entries/162.php: fix for picture urls in
+  158 and 162.
+
+2012-12-23  Tehlug <general@lists.tehlug.org>
+
+  * .gitignore, images/lugs/guilug.jpg, images/lugs/guilug.png,
+  images/map-anisa.png, images/map.png, photos/158/20121010_192512.jpg,
+  photos/158/20121010_192703.jpg, photos/158/tehlug-158-1.jpg,
+  photos/158/tehlug-158-2.jpg, photos/162/tehlug-162.jpg: missing pictures
+  added to source tree.
+
+2012-12-16  Behnam <behnam@behnam-VGN-NW110D.(none)>
+
+  * contents/entries/163.php: afzoodane khabare 163
+
+2012-12-05  Behnam <behnam@behnam-VGN-NW110D.(none)>
+
+  * contents/entries/162.php: eslah
+
+  * contents/entries/162.php: darje asami
+
+2012-11-26  Behnam <behnam@behnam-VGN-NW110D.(none)>
+
+  * contents/entries/161.php: edite khabar
+
+  * contents/entries/161.php: edite khabar
+
+  * contents/entries/161.php: edite khabar
+
+  * contents/entries/161.php: edite khabar
+
+  * contents/entries/161.php: edite khabar
+
+  * contents/entries/162.php: edit khabar
+
+  * contents/entries/162.php: khabare jadid
+
+  * contents/entries/161.php: darje asami
+
+2012-11-19  root <root@behnam-VGN-NW110D.(none)>
+
+  * contents/entries/104.php, contents/entries/106.php,
+  contents/entries/107.php, contents/entries/124.php, contents/entries/125.php,
+  contents/entries/133.php, contents/entries/135.php, contents/entries/136.php,
+  contents/entries/137.php, contents/entries/138.php, contents/entries/139.php,
+  contents/entries/141.php, contents/entries/142.php, contents/entries/143.php,
+  contents/entries/144.php, contents/entries/145.php, contents/entries/147.php,
+  contents/entries/150.php, contents/entries/153.php, contents/entries/154.php,
+  contents/entries/155.php, contents/entries/160.php, contents/entries/161.php:
+  darje khabare 161, ezafe kardane asami 160, edite asami baghiye
+
+2012-11-04  Behnam <behnam@behnam-VGN-NW110D.(none)>
+
+  * contents/entries/159.php, contents/entries/160.php: ezafe kardane khabare
+  160
+
+2012-10-22  root <root@mint>
+
+  * contents/front.php: edite kardane address
+
+  * contents/entries/158.php: darje aks 158
+
+  * contents/entries/159.php: eslahe 159
+
+  * contents/entries/158.php: eslahe 158
+
+  * contents/entries/159.php: ezafe kardane khabare 159
+
+  * contents/entries/157.php, contents/entries/158.php: ezafe kardane asami va
+  aks
+
+2012-10-07  root <root@mint>
+
+  * images/map.png: avaz kardane map
+
+  * images/map-dpi.png: taghir name map ghadim
+
+  * images/map.png: ezafe kardane map jadid
+
+  * contents/front.php: eslahe address dar main page
+
+  * contents/entries/158.php: ezafe kardane khabare 158
+
+2012-09-29  root <root@mint>
+
+  * contents/entries/104.php, contents/entries/153.php,
+  contents/entries/154.php, contents/entries/156.php, contents/entries/157.php:
+  eslahat
+
+2012-09-24  Emil Sedgh <emilsedgh@kde.org>
+
+  * contents/entries/157.php: update as requested by Behnam
+
+2012-09-05  Emil Sedgh <emilsedgh@kde.org>
+
+  * contents/sisters.php: 'royaflash' on freenode told me that url to their
+  website has been changed.
+
+2012-08-20  root <root@mint>
+
+  * contents/entries/news_6.php: darje khabare shomare 6
+
+  * contents/entries/156.php: darje khabare 156
+
+  * contents/entries/155.php: darje asami jalase 155
+
+2012-06-30  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/155.php: darje khabare 155
+
+  * contents/entries/155.php: darje khabare 155
+
+2012-06-14  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/154.php: darje asami
+
+2012-06-12  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/154.php: edite 154
+
+  * contents/entries/100.php, contents/entries/101.php,
+  contents/entries/102.php, contents/entries/103.php, contents/entries/105.php,
+  contents/entries/153.php, contents/entries/154.php: darje khabare 154 va
+  asami 153 va edite esme 100 ela 105
+
+2012-05-15  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/153.php: edite khabare jalase 153
+
+2012-05-14  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/152.php, contents/entries/153.php: eslahe khabare 152 va
+  darje khabare 153
+
+2012-05-02  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/151.php, contents/entries/152.php: darje khabare 152 va
+  edit khabar 151
+
+2012-04-15  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/front.php: taghire rooz az 3shanbe be 4shanbe
+
+  * contents/entries/151.php: taghir nam
+
+2012-04-10  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/151.php: darje khabare 151
+
+  * contents/entries/151.php: darje khabare 151
+
+  * contents/entries/150.php, contents/entries/151.php: darje asami 150 va
+  khabare 151
+
+2012-02-06  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/149.php, contents/entries/150.php: 150th added to sessions
+  list.
+
+2012-01-11  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/promo.php, contents/tehlug.php, menu.php: menu bar tightened in
+  order for search box to appear correctly. promo contents are now available at
+  about tehlug.
+
+2011-12-27  root <root@behnam-VGN-NW110D.(none)>
+
+  * contents/entries/148.php: edite khabare jalase 148
+
+  * contents/entries/149.php: darje khabare jalase 149
+
+2011-12-13  root <root@localhost.localdomain>
+
+  * contents/entries/148.php: eslahe khabare 148
+
+2011-11-29  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/148.php: edite tarikhe jalase 148
+
+  * contents/entries/147.php, contents/entries/148.php: darje khabare 148 va
+  ezafe kardan asami 147
+
+2011-11-16  Emil Sedgh <emilsedgh@kde.org>
+
+  * index.php: fixing secutiry issue
+
+2011-10-20  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/faqs.php: eslahe linke maghale eric raymond
+
+  * contents/entries/147.php: ezafe kardane khabare jalase 147
+
+2011-10-17  Emil Sedgh <emilsedgh@kde.org>
+
+  * contents/entries/146.php: fixing a typo
+
+2011-10-16  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/145.php, contents/entries/146.php: ezafe kardane asami 145
+  va khabare 146
+
+2011-10-03  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/145.php: eslahe khabar
+
+  * contents/entries/145.php: ezafe kardane khabare jalase 145
+
+  * contents/entries/143.php, contents/entries/144.php: ezafe kardane asami
+
+2011-09-19  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/144.php: darje khabare jalase 144
+
+2011-09-05  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/143.php: 143 added to front.
+
+2011-08-25  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/142.php: ezafe kardane asami jalase 142
+
+2011-08-20  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/142.php: edit jalase 142
+
+2011-08-19  Emil Sedgh <emilsedgh@gmail.com>
+
+  * images/map.png, style.css: updating map
+
+2011-08-16  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/142.php: edit
+
+  * contents/entries/news_3.php: edit
+
+  * contents/entries/141.php, contents/entries/news_3.php: afzoodane khabare
+  jalase va virayesh yek mored
+
+2011-08-14  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/front.php, images/map.png, style.css: updating map and setting new
+  location
+
+2011-08-09  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/tehlug.php: adding behnam
+
+  * contents/tehlug.php: update list
+
+2011-07-18  root <root@zahra-GA-880GA-UD3H.(none)>
+
+  * contents/entries/141.php: ezafe kardane asami jalase 141
+
+2011-07-11  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/141.php: virayesh khabare jalase 141
+
+  * contents/entries/141.php: ezafe kardane khabare jalase 141
+
+2011-07-03  root <root@behnam-EP43-S3L.(none)>
+
+  * contents/entries/141.php: taghir zaman jalase 141
+
+2011-06-29  Emil Sedgh <emilsedgh@gmail.com>
+
+  * contents/entries/news_5.php: html encoded &'s.
+
+2011-06-29  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/front.php, images/eben_moglen.jpg: eben moglen, anarchism
+  triumphant added to frontpage.
+
+  * contents/entries/news_5.php, contents/sisters.php,
+  images/lugs/zanjanlug.png, menu.php: zanjanlug added to sisters. irc link
+  added to frontpage. news updated.
+
+2011-06-24  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/140.php, contents/entries/141.php: 140 updated. 141 added.
+
+2011-06-20  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/140.php, contents/front.php: 140 updated.
+
+2011-06-19  root <root@behnam-VGN-NW110D.(none)>
+
+  * contents/entries/140.php: edite jalaseye 140
+
+  * contents/entries/138.php, contents/entries/140.php: ezafe kardane jalaseye
+  140
+
+  * contents/entries/139.php: gozareshe jalase 139
+
+  * contents/entries/139.php: afzoodane gozareshe jalaseye 139
+
+2011-06-04  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/139.php: 139 updated.
+
+2011-06-01  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * ChangeLog, contents/entries/138.php, contents/entries/139.php: 138 update.
+  139 added. ChangeLog added to tree for easy progress tracking.
+
 2011-05-22  Ashkan Ghassemi <ghassemi@ftml.net>
 
   * contents/entries/138.php: 138 minor fixes.
@@ -67,6 +475,10 @@
 
   * contents/entries/136.php: ezafe kardane gozareshe jalase va asami
   sherkat'konandegan va ghrar'dadne presentation
+
+2011-04-26  tehlug <tehlug@li78-196.members.linode.com>
+
+  * index.php: piwik script
 
 2011-04-25  Behnam Tavakkoli <b.tavakkoli@gmail.com>
 
