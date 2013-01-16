@@ -27,7 +27,7 @@
 </div>
 
 <a href="/presentations/91_10_12_remastersys.pdf" class="attachment">دانلود نسخه‌ی پی‌دی‌اف پرزنتیشن این جلسه در مورد ریمسترسیس</a>
-<a href="/presentations/91_10_12_privacy.tar.gz" class="attachment">دانلود نسخه‌ی فشرده‌ شده‌ی پرزنتیشن این جلسه در مورد پرایوسی</a>
+<a href="/presentations/91_10_12_privacy.tar.gz" class="attachment">دانلود نسخه‌ی اچ‌تی‌ام‌ال فشرده‌ شده‌ی پرزنتیشن این جلسه در مورد پرایوسی</a>
 <a href="/presentations/91_10_12_privacy_ao.pdf" class="attachment">دانلود نسخه‌ی پی‌دی‌اف ضمیمه پرزنتیشن جلسه در مورد پرایوسی</a>
 <a href="/videos/91_10_12_one_to_one_targeting.flv" class="attachment">دانلود ویدئوی ارائه شده جلسه در مورد پرایوسی</a>
 <a href="/audios/91_10_12_session.ogg" class="attachment">دانلود فایل صوتی این جلسه</a>
