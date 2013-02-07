@@ -47,7 +47,7 @@ include_once('functions.php');
 			<div id="footer">
 				<?php
 					$time = filemtime($page);
-					echo 'Updated: $Date: '.date('Y/m/d H:i:s', $time).' $';
+					echo 'Updated: $Date: '.date('Y/m/d H:i:s', $time).' IRST $';
 				?>
 			</div>
 			<!-- Piwik --> 
