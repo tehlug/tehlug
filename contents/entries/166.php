@@ -17,7 +17,7 @@
 <div class="body">
 در این جلسه آقای مولا پهنادایان در ارتباط با توزیع فدورا به ارائه‌ی مطلب پرداختند. همچنین شرکت کنندگان در مورد برنامه‌های آتی تهران‌لاگ به بحث و تبادل نظر پرداختند.
 </div>
-<a href="/presentations/91_11_11_fedora_18.odp" class="attachment">دانلود نسخه‌ی پی‌دی‌اف پرزنتیشن این جلسه در مورد توزیع فدورا</a>
+<a href="/presentations/91_11_11_fedora_18.pdf" class="attachment">دانلود نسخه‌ی پی‌دی‌اف پرزنتیشن این جلسه در مورد توزیع فدورا</a>
 <a href="/audios/91_11_11_session_1.ogg" class="attachment">دانلود فایل صوتی این جلسه - اخبار</a>
 <a href="/audios/91_11_11_session_2.ogg" class="attachment">دانلود فایل صوتی این جلسه - فدورا</a>
 <a href="/audios/91_11_11_session_3.ogg" class="attachment">دانلود فایل صوتی این جلسه - بحث آزاد</a>
