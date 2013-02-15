@@ -20,7 +20,7 @@
 دسترسی به محتوای آزاد در سطح اینترنت را محدود میسازند مطالبی را ارائه نمودند.
 </div>
 
-<a href="/presentations/91_11_11_hadoop_mapreduce.pdf" class="attachment">دانلود نسخه‌ی پی‌دی‌اف پرزنتیشن این جلسه در مورد مدل مپ-ردوس و تکنولوژی هدوپ</a>
+<a href="/presentations/91_11_24_hadoop_mapreduce.pdf" class="attachment">دانلود نسخه‌ی پی‌دی‌اف پرزنتیشن این جلسه در مورد مدل مپ-ردوس و تکنولوژی هدوپ</a>
 <a href="/audios/91_11_24_session_1.ogg" class="attachment">دانلود فایل صوتی این جلسه - قسمت اول</a>
 <a href="/audios/91_11_24_session_2.ogg" class="attachment">دانلود فایل صوتی این جلسه - قسمت دوم</a>
 
