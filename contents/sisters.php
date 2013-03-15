@@ -22,7 +22,7 @@
 	<img src="images/lugs/khuzlug.png" class="photo" />
 </a>
 
-<a href="http://karajlug.org/wiki/doku.php">
+<a href="http://karajlug.org/">
 	<img src="images/lugs/karajlug.png" class="photo" />
 </a>
 
