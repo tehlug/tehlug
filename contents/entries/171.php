@@ -11,7 +11,7 @@
 </div>
 
 <div class="date">
-1392/02	/03
+1392/02/03
 </div>
 
 <div class="body">
