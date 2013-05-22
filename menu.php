@@ -44,4 +44,9 @@
 			گفتگوی زنده
 		</a>
 	</li>
+	<li>
+		<a href="index.php?page=calendar">
+			تقویم جلسات
+		</a>
+	</li>
 </ul>
