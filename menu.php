@@ -40,7 +40,7 @@
 		</a>
 	</li>
 	<li>
-		<a href="http://webchat.freenode.net/?randomnick=1&channels=tehlug&prompt=1&uio=d4">
+		<a href="index.php?page=irc">
 			گفتگوی زنده
 		</a>
 	</li>
