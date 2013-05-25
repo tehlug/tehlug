@@ -1,3 +1,78 @@
+2013-05-25  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/calendar.php, images/calendar_plus_en.gif: calendar page fixed to
+  minimalistic google's privacy policy description and google calendar guide.
+
+2013-05-24  smmsadrnezh <smmsadrnezh@gmail.com>
+
+  * contents/irc.php, menu.php: Using embed code into IRC page.
+
+2013-05-22  smmsadrnezh <smmsadrnezh@gmail.com>
+
+  * contents/calendar.php, menu.php: اضافه کردن لینک و
+  راهنمای استفاده از تقویم گوگل به سایت
+
+2013-05-15  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/171.php, contents/entries/172.php: 172 updated.
+
+2013-05-05  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/172.php, style.css: 172 added.
+
+2013-04-30  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/news_8.php, style.css: news_8 updated. entry width changed
+  to 90% to fit longer news titles.
+
+2013-04-21  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/170.php, contents/entries/171.php: 171 date typo fixed.
+  170 attachment file updated.
+
+2013-04-16  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/170.php, contents/entries/171.php: 170 updated. 171 added.
+
+2013-04-07  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/169.php, contents/entries/170.php,
+  photos/169/1391_12_22_01.jpg, photos/169/1391_12_22_01_thumb.jpg: 169 updated
+  and 170 added.
+
+2013-03-15  Ebrahim Byagowi <ebrahim@byagowi.com>
+
+  * contents/sisters.php, images/lugs/karajlug.png: Updating KarajLug URL and
+  correcting KarajLug logo
+
+2013-03-09  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/168.php, contents/entries/169.php,
+  contents/entries/news_7.php: 169 added. 168 and news_7 dates are now fixed: a
+  bug in single digit day representation that caused ie. 91/12/7 (instead of
+  07) to showup before 91/12/22.
+
+2013-02-25  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/168.php, contents/entries/news_7.php, contents/front.php,
+  images/map-ict.jpg, images/map-kahkeshan.png, images/map.png, style.css: 168
+  added. sessions displacement added to news. session place map added.
+
+2013-02-14  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/150.php, contents/entries/151.php,
+  contents/entries/152.php, contents/entries/153.php, contents/entries/154.php,
+  contents/entries/155.php, contents/entries/156.php, contents/entries/157.php,
+  contents/entries/158.php, contents/entries/159.php, contents/entries/160.php,
+  contents/entries/161.php, contents/entries/162.php, contents/entries/163.php,
+  contents/entries/164.php, contents/entries/165.php, contents/entries/166.php,
+  contents/entries/167.php: 167 updated. 167-150 entries revised.
+
+2013-02-01  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * .gitignore, README.md: gitignore updated to ignore videos directory.
+  README.md (github style readme) added to source tree.
+
 2013-01-17  Ashkan Ghassemi <ghassemi@ftml.net>
 
   * contents/entries/164.php, contents/entries/165.php: 165 updated. minor fix
@@ -7,8 +82,22 @@
 
   * ChangeLog, contents/entries/165.php: small type in 165 fixed.
 
-  * ChangeLog, contents/entries/165.php, gitlog2changelog: 165 added to source
-  tree. gitlog2changelog script added. execute permission on misc files fixed.
+  * ChangeLog, contents/entries/100.php, contents/entries/101.php,
+  contents/entries/102.php, contents/entries/103.php, contents/entries/104.php,
+  contents/entries/105.php, contents/entries/106.php, contents/entries/107.php,
+  contents/entries/108.php, contents/entries/115.php, contents/entries/117.php,
+  contents/entries/118.php, contents/entries/119.php, contents/entries/122.php,
+  contents/entries/123.php, contents/entries/124.php, contents/entries/125.php,
+  contents/entries/165.php, contents/entries/news_1.php, contents/faqs.php,
+  contents/front.php, contents/list.php, contents/news.php,
+  contents/search.php, contents/sessions.php, contents/tehlug.php,
+  files/asasname-0.6.pdf, functions.php, gitlog2changelog,
+  images/attachment.png, images/eyKoV.png, images/favicon.png,
+  images/free_society.jpg, images/header.png,
+  images/installfest_122nd_session_poster.png, images/map-dpi.png,
+  images/map-techanis.png, images/notice.png, images/quotation.png, index.php,
+  menu.php, photos/luggers.jpg, style.css: 165 added to source tree.
+  gitlog2changelog script added. execute permission on misc files fixed.
 
 2013-01-06  Ashkan Ghassemi <ghassemi@ftml.net>
 
