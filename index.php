@@ -36,9 +36,12 @@ include_once('functions.php');
 				//Make sure page is a subdir of contents
 				$realpath = realpath($page);
 				$contentsPath = realpath('./contents');
+
 				if(substr($realpath, 0, strlen($contentsPath)) === $contentsPath)
-                    if(file_exists)
-                        include($page) || $included = true;
+                    if(file_exists($page)) {
+                        include($page);
+                        $included = true;
+                    }
 				?>
 			</div>
 
