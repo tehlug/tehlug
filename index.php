@@ -31,13 +31,14 @@ include_once('functions.php');
 				<?php
 				$page = (isset($_GET['page'])) ? $_GET['page'] : "front";
 
-				$page = 'contents/'.$page.'.php';
+				$page = 'contents/'.htmlentities($page).'.php';
 
 				//Make sure page is a subdir of contents
 				$realpath = realpath($page);
 				$contentsPath = realpath('./contents');
 				if(substr($realpath, 0, strlen($contentsPath)) === $contentsPath)
-					include($page);
+                    if(file_exists)
+                        include($page);
 				?>
 			</div>
 
@@ -50,7 +51,7 @@ include_once('functions.php');
 					echo 'Updated: $Date: '.date('Y/m/d H:i:s', $time).' IRST $';
 				?>
 			</div>
-			<!-- Piwik --> 
+			<!-- Piwik -->
 			 <script type="text/javascript">
 			  var pkBaseURL = (("https:" == document.location.protocol) ? "https://tehlug.org/stats/" : "http://tehlug.org/stats/");
 			   document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
