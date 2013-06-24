@@ -36,9 +36,12 @@ include_once('functions.php');
 				//Make sure page is a subdir of contents
 				$realpath = realpath($page);
 				$contentsPath = realpath('./contents');
+
 				if(substr($realpath, 0, strlen($contentsPath)) === $contentsPath)
-                    if(file_exists)
+                    if(file_exists($page)) {
                         include($page);
+                        $included = true;
+                    }
 				?>
 			</div>
 
@@ -47,8 +50,10 @@ include_once('functions.php');
 
 			<div id="footer">
 				<?php
-					$time = filemtime($page);
-					echo 'Updated: $Date: '.date('Y/m/d H:i:s', $time).' IRST $';
+                    if($included) {
+                        $time = filemtime($page);
+                        echo 'Updated: $Date: '.date('Y/m/d H:i:s', $time).' IRST $';
+                    }
 				?>
 			</div>
 			<!-- Piwik -->
