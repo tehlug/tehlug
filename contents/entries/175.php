@@ -18,6 +18,7 @@
 در این جلسه آقای عرفان امیدفر به معرفی شل‌کد و نحوه‌ی نوشتن آن پرداختند. همچنین در ادامه آقای محمد نبی‌زاده مدیریت بحث آزادی در مورد تکنولوژی‌های مورد استفاده در آینده را به عهده داشتند.
 <br />
 <br />
+<a href="/presentations/92_04_04_shellcode.pptx" class="attachment">دانلود فایل پرزنتیشن ارائه شل‌کد‌</a>
 <a href="/audios/92_04_04_news.ogg" class="attachment">دانلود فایل صوتی اخبار این جلسه</a>
 <a href="/audios/92_04_04_interactive.ogg" class="attachment">دانلود فایل صوتی بحث آزاد این جلسه</a>
 <a href="/audios/92_04_04_shell_code.ogg" class="attachment">دانلود فایل صوتی ارائه شل‌کد</a>
