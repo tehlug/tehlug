@@ -18,6 +18,9 @@
 در این جلسه آقای دانیال بهزادی بحث آزادی را به کمک حاضرین در جلسه در مورد نرم افزارهای آزاد ارائه کردند. همچنین در مورد کنفرانس زنجان (زیکانف) توضیحاتی ارائه شد. این جلسه ارائه‌ی فنی نداشت.
 <br />
 <br />
+<a href="photos/174/1392_03_21.jpg">
+   <img src="photos/174/1392_03_21_thumb.jpg" class="photo" />
+</a>
 <a href="/presentations/92_03_21_zconf.zip" class="attachment">دانلود نسخه‌ی زیپ توضیحات کنفرانس زیکانف</a>
 <a href="/audios/92_03_21_news.ogg" class="attachment">دانلود فایل صوتی اخبار این جلسه</a>
 <a href="/audios/92_03_21_interactive.ogg" class="attachment">دانلود فایل صوتی بحث آزاد این جلسه</a>
