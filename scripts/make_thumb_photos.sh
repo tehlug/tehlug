@@ -28,7 +28,7 @@ if [ $stat -ne 0 ]; then
 fi
 
 echo -ne "${GREEN}switching to photos directory... ${RESET}"
-cd photos/
+cd ../photos/
 stat=$?
 printk $stat
 if [ $stat -ne 0 ]; then
