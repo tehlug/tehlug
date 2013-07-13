@@ -27,8 +27,8 @@ img {
 
 .bullet {
 	list-style: disc inside none;
+	padding: 0 20px 0 0;
 }
-
 
 .clear {
 	clear: both;
@@ -306,6 +306,11 @@ p {
 	float: left;
 	margin-left: 5%;
 	margin-top: 10px;
+}
+
+.photo-howto {
+	max-width: 500px;
+	margin: 10px 0;
 }
 
 #footer {
