@@ -1,3 +1,11 @@
+<style>
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        display:block;
+    }
+</style>
+
 <div class="itembar">لیست پستی چیست؟</div>
 
 <p>
@@ -65,15 +73,15 @@
 <ul class="bullet">
 برای لغو اشتراک از طریق ایمیل کافیست یک ایمیل خالی با موضوع unsubscribe به یکی از این آدرس‌ها ارسال نمایید.
 <ul class="bullet">
-<li>برای لغو اشتراک از لیست پستی اعلان‌ها:&nbsp;&nbsp;<img src="images/list-howto/list-tehlug-announce-request.png" /></li>
-<li>برای لغو اشتراک از لیست پستی عمومی:&nbsp;&nbsp;<img src="images/list-howto/list-general-request.png" /></li>
-<li>برای لغو اشتراک از لیست پستی آف‌تاپیک:&nbsp;&nbsp;<img src="images/list-howto/list-tehlug-ot-request.png" /></li>
+<li>برای لغو اشتراک از لیست پستی اعلان‌ها:&nbsp;&nbsp;<img class="center"  src="images/list-howto/list-tehlug-announce-request.png" /></li>
+<li>برای لغو اشتراک از لیست پستی عمومی:&nbsp;&nbsp;<img class="center"  src="images/list-howto/list-general-request.png" /></li>
+<li>برای لغو اشتراک از لیست پستی آف‌تاپیک:&nbsp;&nbsp;<img class="center"  src="images/list-howto/list-tehlug-ot-request.png" /></li>
 </ul>
 <br /><a href="images/list-howto/list-unsubscribe-06.png">
-		<img src="images/list-howto/list-unsubscribe-06.png" class="photo-howto" /></a><br />
+		<img class="center"  src="images/list-howto/list-unsubscribe-06.png"  /></a><br />
 با این کار یک ایمیل برای تایید نهایی برای آدرس ایمیل شما ارسال خواهد شد. به صندوق ایمیل خود بروید و این ایمیل را باز کنید. سپس بر روی دکمه پاسخ (Reply) کلیک کنید و دکمه ارسال (Send) را فشار دهید. با این کار عضویت شما در لیست پستی لغو می‌شود.
 <br /><a href="images/list-howto/list-unsubscribe-07.png">
-		<img src="images/list-howto/list-unsubscribe-07.png" class="photo-howto" /></a><br />
+		<img class="center"  src="images/list-howto/list-unsubscribe-07.png"  /></a><br />
 </ul>
 </li>
 </br />
@@ -83,19 +91,19 @@
 <ul class="bullet">
 ابتدا به <a href="http://lists.tehlug.org/mailman/listinfo">صفحه اصلی لیست‌های پستی</a> بروید و بر روی لیست پستی مورد نظر خود کلیک کنید.
 <br /><a href="images/list-howto/list-unsubscribe-01.png">
-		<img src="images/list-howto/list-unsubscribe-01.png" class="photo-howto" /></a><br />
+		<img class="center" src="images/list-howto/list-unsubscribe-01.png"  /></a><br />
 در قسمت انتهایی این صفحه آدرس ایمیل خود را که پیشتر با آن مشترک شده‌اید را وارد نموده و بر روی دکمه Unsubscribe or edit options کلیک کنید.
 <br /><a href="images/list-howto/list-unsubscribe-02.png">
-		<img src="images/list-howto/list-unsubscribe-02.png" class="photo-howto" /></a><br />
+		<img class="center" src="images/list-howto/list-unsubscribe-02.png"  /></a><br />
 حال بر روی دکمه Unsubscribe کلیک کنید.
 <br /><a href="images/list-howto/list-unsubscribe-03.png">
-		<img src="images/list-howto/list-unsubscribe-03.png" class="photo-howto" /></a><br />
+		<img class="center" src="images/list-howto/list-unsubscribe-03.png"  /></a><br />
 با این کار یک ایمیل برای تایید نهایی برای آدرس ایمیل شما ارسال خواهد شد. به صندوق ایمیل خود بروید و بر روی لینک داخل ایمیل کلیک نمایید.
 <br /><a href="images/list-howto/list-unsubscribe-04.png">
-		<img src="images/list-howto/list-unsubscribe-04.png" class="photo-howto" /></a><br />
+		<img class="center" src="images/list-howto/list-unsubscribe-04.png"  /></a><br />
 در صفحه‌ای که باز می‌شود بر روی دکمه Unsubscribe کلیک کنید تا عضویت شما در لیست پستی لغو شود.
 <br /><a href="images/list-howto/list-unsubscribe-05.png">
-		<img src="images/list-howto/list-unsubscribe-05.png" class="photo-howto" /></a><br />
+		<img class="center" src="images/list-howto/list-unsubscribe-05.png"  /></a><br />
 </ul>
 </li>
 </ul>
@@ -131,14 +139,14 @@
 در حالت ایده‌آل لیست پستی تهران‌لاگ باید محلی برای بحث در مورد تمامی آن چیزی باشد که برای جامعه‌ی نرم افزار آزاد در ایران اهمیت دارد. با این حال اخذ چنین رویکردی برای مجموعه‌ی ما به یک دلیل ساده امکان‌پذیر نیست.
 از این جهت که لیست پستی جنرال تهران‌لاگ به لحاظ تاریخی رفته رفته، خواسته یا ناخواسته، به درست یا غلط به سمتی رفته است که نقش هماهنگی جلسات را بر عهده داشته باشد. بسیاری از کسانی که در این لیست پستی
 عضو هستند، با این مسئله که روزانه با سوال‌هایی که برایشان تکراری است، مسئله‌ی روزشان نیست یا برایشان اهمیت ندارد در صندوق پستی الکترونیک‌اشان مواجه شوند مشکلات اساسی دارند. از این رو لیست پستی جنرال گروه کاربران
-گنو/لینوکس تهران تنها مکانی برای صحبت در مورد مشارکت و همفکری در جلسات، سوال در مورد جلسه، زمان و مکان برگزاری، طرح و پیشنهاد و انتقاد و خلاصه هر آن چیز که صرفا مربوط 
+گنو/لینوکس تهران تنها مکانی برای صحبت در مورد مشارکت و همفکری در جلسات، سوال در مورد جلسه، زمان و مکان برگزاری، طرح و پیشنهاد و انتقاد و خلاصه هر آن چیز که صرفا مربوط
 به گروه کاربران گنو/لینوکس تهران میشود است. با این حال ممکن است هنوز و پس از تاکیدهای فراوان تیم مدیریت، کاربران لیست پستی، ایمیل‌های غیرمرتبط به مجموعه تهران‌لاگ را به این لیست پستی ارسال کنند. ما از شما میخواهیم در صورت
 مشاهده‌ی چنین موردی از فرستادن پاسخ همگانی به آن با هر محتوایی (مشارکت در آن بحث، انتقاد به فرستنده‌ی بحث برای مطرح کردن بحثی بیٰربط به لیست پستی و غیره) خودداری کنید و موضوع را به صورت شخصی
 با فرد فرستنده یا بهتر از آن، یکی از اعضای تیم گردانندگان مطرح کنید. ذکر این نکته ضروری است که تنها استثنا برای این قاعده فرستادن ایمیل‌هایی برای جذب نیروی کار هستند که انجام این کار از نظر تیم مدیریت بلامانع هستند،
 با این شرط که از فرستادن پاسخ همگانی و طرح
 سوال در مورد موقعیت شغلی (به عنوان مثال حقوق، مزایا، پرسش در مورد محیط کار، توضیحات بیشتر و غیره) خودداری کنید و موضوع را به صورت شخصی با فرستنده‌ی ایمیل موقعیت شغلی در میان بگذارید.
-با این حال راه برای طرح سوال و ایجاد بحث در هر موردی برای شما باز است. میتوانید در لیست پستی <a href="http://lists.tehlug.org/mailman/listinfo/tehlug-ot">آف-تاپیک</a> عضو شوید و در مورد 
-وضعیت آب و هوا امروز شهر هم صحبت کنید. در این لیست قطعاً هیچ محدودیتی برای شما وجود ندارد. 
+با این حال راه برای طرح سوال و ایجاد بحث در هر موردی برای شما باز است. میتوانید در لیست پستی <a href="http://lists.tehlug.org/mailman/listinfo/tehlug-ot">آف-تاپیک</a> عضو شوید و در مورد
+وضعیت آب و هوا امروز شهر هم صحبت کنید. در این لیست قطعاً هیچ محدودیتی برای شما وجود ندارد.
 </p>
 
 <div class="itembar">حریم خصوصی من</div>
