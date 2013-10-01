@@ -17,7 +17,7 @@
 <div class="body">
 در این جلسه آقای سید مرتضی علم الهدی به بیان "تجربه موفق یك استارتاپ در بازار جهانی" و سپس جناب آقای مهندس ساعی به "معرفی مرکز اطلاعات و فن آوری متن باز" پرداختند.<br><br>
 <a href="http://prezi.com/rbzmvbuwb2wt/being-like-pichak/" class="attachment">لینک ارائه تجربه موفق یك استارتاپ در بازار جهانی</a>
-<a href="/audios/92_06_26_startup.ogg" class="attachment">دانلود فایل صوتی ارائه تجربه موفق یک استارتاپ در بازار جهانی ownCloud </a>
+<a href="/audios/92_06_26_startup.ogg" class="attachment">دانلود فایل صوتی ارائه تجربه موفق یک استارتاپ در بازار جهانی</a>
 
 <br/>
 <ul class="members bullet">
