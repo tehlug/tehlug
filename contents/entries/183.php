@@ -15,10 +15,9 @@
 </div>
 
 <div class="body">
-در این جلسه آقای <a href="http://blog.efazati.org/">محمد افاضاتی</a> به بحث در مورد  ​​Scalability, Availability & Stability Patterns خواهند پرداخت.<br>
+در این جلسه آقای <a href="http://blog.efazati.org">محمد افاضاتی</a> به بحث در مورد ​​Scalability, Availability & Stability Patterns خواهند پرداخت.<br>
 در صورتی که تمایل دارید در جلسه ۱۸۴ (۷ آبان‌ماه) به بحث در مورد موضوع فنی‌ای بپردازید، از همین الآن در <a href="http://tehlug.org/index.php?page=list">میلینگ لیست تهران‌لاگ</a> مطرح نمایید.
 <br><br>
 <b>توجه داشته باشید که جلسه ۱۸۳ تهران‌لاگ از ساعت ۱۸ الی ۱۹ برگزار خواهد گردید.</b>
 
-<br />
 </div>
