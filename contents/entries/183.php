@@ -15,7 +15,7 @@
 </div>
 
 <div class="body">
-در این جلسه آقای <a href="http://blog.efazati.org">محمد افاضاتی</a> به بحث در مورد ​​Scalability, Availability and Stability Patterns پرداختند.<br>
+در این جلسه آقای <a href="http://blog.efazati.org">محمد افاضاتی</a> به بحث در مورد ​​Scalability, Availability and Stability Patterns پرداختند.
 <br><br>
 <a href="/presentations/92_07_23_scalability_Patterns.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف ارائه الگوهای مقیاس‌پذیری، در دسترس بودن و پایداری</a>
 <ul class="members bullet">
