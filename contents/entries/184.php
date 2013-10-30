@@ -16,10 +16,10 @@
 
 <div class="body">
 در این جلسه آقای سعید رسولی، نویسنده برنامه StarCalendar به بحث در مورد  Internationalization & Localization پرداختند. سپس از حاضرین جلسه در مورد برنامه‌ها و اجرای جلسات لاگ نظرخواهی به عمل آمد.
-<br><br>
+<br><br><!--
 <a href="/presentations/92_08_07_internationlization_localization.pdf" class="attachment">دانلود نسخه‌ی پی-دی-اف ارائه الگوهای مقیاس‌پذیری، در دسترس بودن و پایداری</a>
 <a href="/presentations/92_08_07_internationlization_localization.odp" class="attachment">دانلود نسخه‌ی او-دی-پی ارائه الگوهای مقیاس‌پذیری، در دسترس بودن و پایداری</a>
-
+-->
 <ul class="members bullet">
 <li>بهنام توکلی کرمانی</li>
 <li>آرش حیدری</li>
