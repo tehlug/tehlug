@@ -16,7 +16,7 @@ API چیست و چگونه APIهای خوب طراحی کنیم
 
 <div class="body">
 در این جلسه آقای <a href="http://blog.efazati.org">محمد افاضاتی</a> به بحث در مورد چگونگی نوشتن APIهای خوب پرداختند. همچنین آقای <a href="http://cyberrabbits.net/">فُرود غفوری</a> مدیریت بحث آزاد در رابطه با حمایت و پشتیبانی از نرم‌افزارهای آزاد را بر عهده گرفتند.<br><br>
-<a href="/presentations/92_10_17_api.pdf" class="attachment">دانلود فایل فشرده ارائه‌ی API چیست و چگونه API خوب طراحی کنیم</a>
+<a href="http://www.slideshare.net/dandiephouse/a-great-api-is-hard-to-find?from_search=2" class="attachment">مشاهده آنلاین اسلایدهای API چیست و چگونه API خوب طراحی  کنیم (با قابلیت دانلود)</a>
 <a href="/audios/92_10_17_api.ogg" class="attachment">دانلود فایل صوتی ارائه‌ی API چیست و چگونه API خوب طراحی کنیم</a>
 <a href="/audios/92_10_17_interactive.ogg" class="attachment">دانلود فایل صوتی بحث آزاد کاربران در مورد حمایت از نرم‌افزارهای آزاد</a>
 
