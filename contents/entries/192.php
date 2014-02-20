@@ -16,7 +16,9 @@ Practical look at Erlang - آشنایی با نظام حقوقی کپی رایت
 
 <div class="body">
 در این جلسه آقای حمیدرضا سلیمانی به بحث در مورد Practical look at Erlang پرداختند. همچنین در ادامه‌ی جلسه، آقای صادق شمشیری به توضیح در مورد آشنایی با نظام حقوقی کپی رایت و همچنین پاسخ به پرسش‌های کاربران در مورد این موضوع پرداختند.<br><br>
+<a href="/presentations/92_11_29_erlang.pdf" class="attachment">دانلود فایل پی‌دی‌اف ارائه‌ی Practical look at Erlang</a>
 <a href="/audios/92_11_29_erlang.ogg" class="attachment">دانلود فایل صوتی ارائه‌ی Practical look at Erlang</a>
+<a href="/presentations/92_11_29_copyright.pdf" class="attachment">دانلود فایل پی‌دی‌اف ارائه و پرسش و پاسخ در مورد کپی‌رایت</a>
 <a href="/audios/92_11_29_copyright.ogg" class="attachment">دانلود فایل صوتی ارائه و پرسش و پاسخ در مورد کپی‌رایت</a>
 
 <br />
