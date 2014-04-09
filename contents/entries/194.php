@@ -19,7 +19,7 @@
 <a href="/presentations/93_01_19_javascript-frameworks.zip" class="attachment">دانلود فایل فشرده‌ی ارائه‌ی معرفی فریم‌ورک‌های جاوااسکریپت</a>
 <a href="https://jajool.github.io/jsfpress" class="attachment">مشاهده فایل ارائه‌ی معرفی فریم‌ورک‌های جاوااسکریپت در گیت‌هاب</a>
 <a href="/audios/93_01_19_javascript-frameworks.ogg" class="attachment">دانلود فایل صوتی ارائه‌ی معرفی فریم‌ورک‌های جاوااسکریپت</a>
-<a href="/audios/93_01_19_interactive.ogg" class="attachment">دانلود فایل صوتی بحث آزاد کاربران در مورد آموزش رایانه به صورت آکادمیک</a>
+<a href="/audios/93_01_19_interactive.ogg" class="attachment">دانلود فایل صوتی بحث آزاد کاربران در مورد برنامه‌های سال ۹۳ تهران‌لاگ</a>
 
 <ul class="members bullet">
 <li>بهنام توکلی کرمانی</li>
