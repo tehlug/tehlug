@@ -21,6 +21,7 @@
 <a href="/audios/93_03_13_coreos.ogg" class="attachment">دانلود فایل صوتی ارائه سیستم عامل CoreOS با پسوند اُدی‌پی</a>
 <a href="/audios/93_03_13_interactive.ogg" class="attachment">دانلود فایل صوتی بحث آزاد کاربران با موضوع راهکارهای تولید نرم‌افزار آزاد</a>
 
+<ul class="members bullet">
 <li>بهنام توکلی کرمانی</li>
 <li>رها فرخی</li>
 <li>مریم لاهیجانی</li>
