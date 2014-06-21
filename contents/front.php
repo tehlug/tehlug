@@ -57,7 +57,7 @@
 			محل برگزاری جلسه ۲۰۰
 	</div>
   	<div class="map"></div>
-گروه کاربران لینوکس تهران جلسه ۲۰۰ را در روز چهارشنبه از ساعت <b>۱۸ الی ۲۰</b> در محل حوزه هنری برگزار می‌نماید.
+گروه کاربران لینوکس تهران جلسه ۲۰۰ را در روز چهارشنبه از ساعت <b>۱۸ الی ۲۰</b> در محل حوزه هنری برگزار می‌نماید.<br />
 <b>آدرس محل برگزاری جلسه ۲۰۰: خیابان سمیه - نرسیده به خیابان حافظ - حوزه هنری
 
 .</b>
@@ -70,6 +70,6 @@
 	</div>
 
 <div style="width: 90%; text-align: justify; margin-left: auto; margin-right: auto;">
-<a href="images/tehlug-200-poster.jpg"><img src="images/tehlug-200-poster-thumb.jpg" align="center" /></a>
+<a href="images/tehlug-200-poster.jpg"><img src="images/tehlug-200-poster-thumb.jpg" style="float: auto;" /></a>
 	</div>
 </div>
