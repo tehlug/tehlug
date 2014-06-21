@@ -70,6 +70,6 @@
 	</div>
 
 <div style="width: 90%; text-align: justify; margin-left: auto; margin-right: auto;">
-<a href="images/tehlug-200-poster.jpg"><img src="images/tehlug-200-poster-thumb.jpg" style="float: auto;" /></a>
+<a href="images/tehlug-200-poster.jpg"><img src="images/tehlug-200-poster-thumb.jpg" style="margin-left: auto; margin-right: auto;" /></a>
 	</div>
 </div>
