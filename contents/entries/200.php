@@ -15,13 +15,7 @@
 </div>
 <div class="body">
 این جلسه در روز چهارشنبه مورخ ۴ تیرماه از ساعت ۱۸ الی ۲۰ در محل <a href="https://www.google.com/maps/@35.7056266,51.4129311,17z">حوزه هنری به نشانی تهران، خیابان سمیه، نرسیده به خیابان حافظ</a> برگزار گردید.
-<br />
-<a href="/presentations/93_04_04_buildroot.odp" class="attachment">دانلود اسلاید ارائه Buildroot آقای مجید عظیمی با فُرمت اُدی‌پی</a>
-<a href="/presentations/93_04_04_buildroot.pdf" class="attachment">دانلود اسلاید ارائه Buildroot آقای مجید عظیمی با فُرمت پی‌دی‌اف</a>
-<a href="https://mega.co.nz/#F!k09iEYqT!4N3pYJ5ZAD3t8UOimj03jg" class="attachment">نسخه با کیفیت تصاویر جلسه ۲۰۰</a>
-<a href="https://mega.co.nz/#F!RpE2xbCY!Ue8yxUODqqVGEaxVKNL0jQ" class="attachment">نسخه با کیفیت پایین‌تر تصاویر جلسه ۲۰۰</a>
-<a href="https://mega.co.nz/#!MtcDxDrI!LaC3NAA8JGwaZE4c4b6hO8o75VSI6WVd9VhhrLTaW_w" class="attachment">تورنت تصاویر با کیفیت جلسه ۲۰۰</a>
-<a href="https://www.facebook.com/media/set/?set=a.745957402114034.1073741832.190837130959400&type=3" class="attachment">آلبوم تصاویر جلسه ۲۰۰ در صفحه رسمی تهران‌لاگ در فیس‌بوک</a>
+
 <br />
 <p align="center"><a href="../../photos/200/tehlug-200.jpg"><img src="../../photos/200/tehlug-200-thumb.jpg"></a></p>
 <br /><br />
