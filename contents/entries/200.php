@@ -22,7 +22,7 @@
 <a href="https://mega.co.nz/#!MtcDxDrI!LaC3NAA8JGwaZE4c4b6hO8o75VSI6WVd9VhhrLTaW_w" class="attachment">تورنت تصاویر با کیفیت جلسه ۲۰۰</a>
 <a href="https://www.facebook.com/media/set/?set=a.745957402114034.1073741832.190837130959400&type=3" class="attachment">آلبوم تصاویر جلسه ۲۰۰ در صفحه رسمی تهران‌لاگ در فیس‌بوک</a>
 <br />
-<p align="center"><a href="../../photos/200/tehlug-200.jpg"><img src="../../photos/200/tehlug-200-thumb.jpg"></a></p>
+
 <br /><br />
 
 هم اکنون پس از گذشت نه سال از اولین جلسه گروه کاربران لینوکس تهران 
