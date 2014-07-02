@@ -1,8 +1,164 @@
+2014-07-02  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/200.php, photos/200/tehlug-200-thumb.jpg,
+  photos/200/tehlug-200.jpg: eslahe site va darje khabare 201
+
+  * contents/entries/201.php, contents/front.php, style.css: eslahe site va
+  darje khabare 201
+
+2014-06-21  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * scripts/gitlog2changelog, scripts/issue_session.sh,
+  scripts/make_thumb_photos.sh: darje 200 unknown
+
+  * contents/entries/199.php, contents/entries/200.php, contents/front.php,
+  images/map-hozehonari.jpg, images/tehlug-200-poster.jpg, style.css: ezafe
+  kardan khabare 200 va asami 199
+
+2014-06-07  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/198.php, contents/entries/199.php: darje khabar 199 va
+  asami 198
+
+2014-05-30  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/197.php, contents/entries/198.php: darje asami 197 +
+  khabare 198
+
+2014-05-15  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/195.php, contents/entries/196.php,
+  contents/entries/197.php: update jalaase 195 & 196 va darje khabare 197
+
+2014-04-09  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/194.php, contents/entries/195.php: ezafe kardan asami va
+  file 194 va khabare namaloom 195
+
+  * contents/entries/194.php, contents/entries/195.php: ezafe kardan asami va
+  file 194 va khabare namaloom 195
+
+2014-03-13  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * photos/193/92_12_13-1_thumb.jpg, photos/193/92_12_13-2_thumb.jpg: ezafe
+  kardan aks akhare jalase 193
+
+  * photos/193/92_12_13-1.jpg, photos/193/92_12_13-1_thumb.jpg,
+  photos/193/92_12_13-2.jpg, photos/193/92_12_13-2_thumb.jpg: ezafe kardan aks
+  akhare jalase 193
+
+2014-02-19  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * photos/192/92_11_29.jpg, photos/192/92_11_29_thumb.png: ezafe kardane akse
+  192
+
+  * contents/entries/192.php, contents/entries/193.php: ezafe kardan asami 192
+  + pish-khabar 193
+
+2014-02-12  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/191.php, contents/entries/192.php: ezafe kardan asami 191
+  + file'ha + khabare 192
+
+2014-02-01  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/189.php, contents/entries/190.php,
+  contents/entries/191.php: ezafe kardan asami 190 + khabare 191 + eslah link
+  189
+
+2014-01-17  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/189.php, contents/entries/190.php: ezafe kardan asami +
+  khabare 190
+
+2014-01-04  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/188.php, contents/entries/189.php: ezafe kardan khabare
+  189 va asami 188?
+
+2013-12-24  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/184.php, contents/entries/186.php,
+  contents/entries/187.php, contents/entries/188.php: ezafe kardane asami +
+  darje khabare 188
+
+2013-12-08  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/186.php, contents/entries/187.php: ezafe kardan asami 186
+  va khabare 187
+
+2013-11-25  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/185.php, contents/entries/186.php: ezafe kardane asami 185
+  + khabare 186
+
+2013-10-30  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/184.php, contents/entries/185.php: darje asami
+
+  * contents/entries/184.php, contents/entries/185.php: darje asami
+
+  * contents/entries/183.php, contents/entries/184.php,
+  contents/entries/185.php: ezafe kardan asami va khabar
+
+2013-10-24  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * images/map-tosan.jpg, style.css: eslahe neshani
+
+  * contents/entries/183.php, contents/entries/184.php: ezafe kardane 184 +
+  asami 183
+
+2013-10-06  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/183.php, contents/front.php: jalase 183
+
+2013-09-11  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/180.php, contents/entries/181.php: ezafe kardan asami 180
+  va khabare 181
+
+2013-09-03  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/179.php, contents/entries/180.php: ezafe kardane khabar
+  180 va asami va file-haye 179
+
+2013-07-29  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/176.php, contents/entries/177.php: darje asami + file'ha
+
+2013-07-22  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/177.php, scripts/next_session.date,
+  scripts/next_session.id: 177 added.
+
+2013-07-01  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/176.php, gitlog2changelog, make_thumb_photos.sh,
+  scripts/gitlog2changelog, scripts/issue_session.sh,
+  scripts/make_thumb_photos.sh, scripts/next_session.date,
+  scripts/next_session.id: session issuing is now automated using
+  issue_session.sh script. | buggy on date due to an internal jcal bug |
+  scripts are now moved to scripts folder.
+
+  * contents/entries/173.php, contents/entries/174.php,
+  contents/entries/175.php, photos/173/1392_02_31.jpg,
+  photos/173/1392_02_31_thumb.jpg, photos/174/1392_03_21.jpg,
+  photos/174/1392_03_21_thumb.jpg: 175 updated. 174 and 173 photos are added.
+
+2013-06-19  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/174.php, contents/entries/175.php: 174 update #2. 175
+  added.
+
+2013-06-16  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/174.php, contents/tehlug.php: 174 partially updated. typo
+  in tehlug-staff fixed.
+
 2013-05-25  Ashkan Ghassemi <ghassemi@ftml.net>
 
   * contents/calendar.php, images/calendar_plus_en.gif: calendar page fixed to
   minimalistic google's privacy policy description and google calendar guide.
-  * contents/173.php: 173 updated.
 
 2013-05-24  smmsadrnezh <smmsadrnezh@gmail.com>
 
