@@ -28,18 +28,11 @@
 <br />
 <br />
  <ul class="bullet">
-<li><a href="mailto:iiriix@tehlug.org">عباس اسماعیلی</a></li>
 <li><a href="mailto:efazati@tehlug.org">محمد افاضاتی</a></li>
 <li><a href="mailto:mohsen@tehlug.org">محسن پهلوان‌زاده</a></li>
-<li><a href="mailto:md@tehlug.org">محمد درویش</a></li>
 <li><a href="mailto:behnam@tehlug.org">بهنام توکلی کرمانی</a></li>
-<li><a href="mailto:azam@tehlug.org">اعظم کیماسی</a></li>
-<li><a href="mailto:emilsedgh@kde.org">امیل صدق </a></li>
-<li><a href="mailto:raha@tehlug.org">رها فرخی</a></li>
+<li><a href="mailto:md@tehlug.org">محمد درویش</a></li>
 <li><a href="mailto:ashkan@tehlug.org">اشکان قاسمی</a></li>
-<li><a href="mailto:maryam@tehlug.org">مریم لاهیجانی</a></li>
-<li><a href="mailto:behnam.b.marandi@gmail.com">بهنام مرندی</a></li>
-<li><a href="mailto:saeed@tehlug.org">سعید وایقان</a></li>
 </ul>
 
 <span class="notice">در صورت تمایل برای تدریس در تهران‌لاگ و یا همکاری با تیم گرداننده میتوانید با اعضای تیم گرداننده تماس حاصل کنید و یا در لیست پستی عضو شده و موضوع را با دیگر اعضای گروه درمیان بگذارید.
