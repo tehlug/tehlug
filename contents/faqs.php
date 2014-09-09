@@ -10,6 +10,7 @@
     }
 
     .question {
+    	color: 9195cc;
         cursor: pointer;
         line-height: 140%;
     }
@@ -222,15 +223,31 @@
         }
     }
 
+    var closeOtherAnswers = function(el) {
+        var answers = document.getElementsByClassName('answer open');
+	var current = el.nextElementSibling;
+	
+        for(var i=0; i<answers.length;i++) {
+            if (answers.item(i) !== current) {
+            	answers.item(i).classList.remove('open');
+	    }
+        }
+    }
+
     var openAnswerOf = function(el) {
         var answer = el.nextElementSibling;
         answer.classList.add('open');
     }
 
+    var toggleAnswerOf = function(el) {
+    	var answer = el.nextElementSibling;
+	answer.classList.toggle("open");
+    }
+    
     var attachHandlers = function(el) {
         el.onclick = function() {
-            closeAllAnswers();
-            openAnswerOf(el);
+            closeOtherAnswers(el);
+            toggleAnswerOf(el);
         }
     }
 
