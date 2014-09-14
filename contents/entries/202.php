@@ -19,7 +19,7 @@
 <br />
 </div>
 
-<a href="/presentations/93_06_10_XMPP.zip" class="attachment">ارائه آقای سلیمانی در مورد پروتکل اکس‌ام‌پی‌پی</a>
+<a href="/presentations/93_06_10_XMPP.pdf" class="attachment">ارائه آقای سلیمانی در مورد پروتکل اکس‌ام‌پی‌پی</a>
 
 <ul class="members bullet">
   <li>حسین کزازی</li>
