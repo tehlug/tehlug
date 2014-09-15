@@ -154,12 +154,7 @@ img {
 }
 
 .map {
-	background-image: url('images/map-tosan-armaghan.png');
-	background-repeat: no-repeat;
-	background-position: center;
-	width: 527px;
-	height: 237px;
-	background-color: #eee;
+	display: block;
 	border: 1px dashed black;
 	border-radius: 10px;
 	-moz-border-radius: 10px;

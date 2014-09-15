@@ -56,7 +56,7 @@
 	<div class="blue box">
 			محل برگزاری جلسات
 	</div>
-   	<div class="map"></div>
+   	<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.410956978797905%2C35.77155580416591%2C51.41694366931915%2C35.77438484157306&amp;layer=mapnik&amp;marker=35.774754785177386%2C51.41509294509888"></iframe>
 گروه کاربران لینوکس تهران هر دو هفته یکبار در روز دو‌شنبه از ساعت <b>۱۸ الی ۲۰</b> جلسه برگزار میکند.
 <br />
 <b>آدرس محل برگزاری جلسات: خیابان ولی‌عصر، بالاتر‌از اتوبان نیایش، خیابان ارمغان غربی، پلاک ۵۷.</b>
