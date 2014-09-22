@@ -287,6 +287,11 @@ p {
 	display: table;
 }
 
+.members li {
+	width: 33%;
+	float:right;
+}
+
 #content > .date {
 	display: table;
 	margin-left: auto;
