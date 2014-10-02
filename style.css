@@ -74,13 +74,8 @@ img {
 	color: #fff;
 }
 
-#menu li:hover {
-	background-color: #800102;
-}
-
 #menu li:hover a {
-	background-color: #800102;
-	color: #FFFF00;
+	color: rgb(154, 205, 50);
 }
 
 #search_box {
