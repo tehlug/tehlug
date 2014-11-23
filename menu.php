@@ -6,22 +6,22 @@
 	</li>
 	<li>
 		<a href="index.php?page=tehlug">
-		 تهران‌لاگ
+		 	تهران‌لاگ
 		</a>
 	</li>
 	<li>
 		<a href="index.php?page=join">
-		 همکاری
+		 	همکاری
 		</a>
 	</li>
 	<li>
 		<a href="index.php?page=sessions">
-			گزارش جلسات
+			گزارشات
 		</a>
 	</li>
 	<li>
 		<a href="index.php?page=news">
-‍‍			آرشیو خبری
+‍‍			اخبار
 		</a>
 	</li>
 	<li>
@@ -46,12 +46,18 @@
 	</li>
 	<li>
 		<a href="index.php?page=calendar">
-			تقویم جلسات
+			تقویم
 		</a>
 	</li>
 	<li>
-		<a href="http://trello.com/tehlug">
+		<a href="https://trello.com/tehlug">
 			ترلو
 		</a>
 	</li>
+	<li>
+		<a href="https://github.com/tehlug">
+			گیتهاب
+		</a>
+	</li>
+
 </ul>
