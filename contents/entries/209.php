@@ -20,6 +20,9 @@
 <br/>
 </div>
 
+<a href="/presentations/93_11_09_javascript.pdf" class="attachment">ارائه آقای ارسطو در مورد انقلاب جاوا اسکریپت</a>
+
+
 <ul class="members bullet">
 
 <li>محمد افاضاتی</li>
