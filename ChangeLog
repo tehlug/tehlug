@@ -1,3 +1,67 @@
+2015-02-15  Mohammad Reza Kamalifard <mr.kamalifard@gmail.com>
+
+  * scripts/next_session.date, scripts/next_session.id: change next session
+  info
+
+2015-01-20  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/209.php, scripts/next_session.date,
+  scripts/next_session.id: 209 added.
+
+2014-12-08  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/207.php, contents/entries/208.php,
+  scripts/next_session.date, scripts/next_session.id: 208 added. 207 updated.
+
+2014-11-23  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * images/tehlug-logo.png, menu.php: github account added. menu items
+  shortened. tehlug logo added to source tree.
+
+  * contents/calendar.php, contents/entries/207.php, menu.php,
+  scripts/next_session.date, scripts/next_session.id: 207 added. 206 not
+  updated yet. Trello public account added.
+
+2014-11-09  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/205.php, contents/entries/206.php,
+  scripts/next_session.date, scripts/next_session.id: 205 updated. 206 added.
+
+2014-10-07  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/205.php, scripts/next_session.date,
+  scripts/next_session.id: 205 added.
+
+2014-09-29  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/front.php, images/success-of-opensource.jpe: front page updated:
+  The Success of Open Source by Steven Weber.
+
+2014-09-23  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/203.php, contents/entries/204.php,
+  scripts/issue_session.sh, scripts/next_session.date, scripts/next_session.id,
+  style.css: 203 updated. 204 added. css changed to reflect member lists a in
+  triple column view.
+
+2014-09-09  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * contents/entries/202.php, contents/entries/203.php, contents/faqs.php,
+  contents/front.php, images/map-tosan-armaghan.png, style.css: 203 added. 202
+  updated. (Still requires name entry, pictures, presentation list, etc.) some
+  minor fixes to FAQ. New map (Tosan at Armaghan) added to front page.
+
+2014-07-09  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
+
+  * contents/entries/201.php, contents/entries/202.php: ezafe kardan asami 201
+  va khabare 202
+
+2014-07-03  Ashkan Ghassemi <ghassemi@ftml.net>
+
+  * ChangeLog, contents/entries/200.php, functions.php,
+  scripts/gitlog2changelog: quick fix for & in HTML: 200.php line 24. must be
+  &amp; instead.
+
 2014-07-02  Behnam Tavakkoli kermani <b.tavakkoli@gmail.com>
 
   * contents/entries/200.php, photos/200/tehlug-200-thumb.jpg,
@@ -130,6 +194,20 @@
 
   * contents/entries/177.php, scripts/next_session.date,
   scripts/next_session.id: 177 added.
+
+2013-07-14  iiriix <iiriix@gmail.com>
+
+  * contents/list.php, images/list-howto/list-general-request.png,
+  images/list-howto/list-tehlug-announce-request.png,
+  images/list-howto/list-tehlug-ot-request.png,
+  images/list-howto/list-unsubscribe-01.png,
+  images/list-howto/list-unsubscribe-02.png,
+  images/list-howto/list-unsubscribe-03.png,
+  images/list-howto/list-unsubscribe-04.png,
+  images/list-howto/list-unsubscribe-05.png,
+  images/list-howto/list-unsubscribe-06.png,
+  images/list-howto/list-unsubscribe-07.png, style.css: List FAQ update, list's
+  info & unsubscription howto added
 
 2013-07-01  Ashkan Ghassemi <ghassemi@ftml.net>
 
