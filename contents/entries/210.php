@@ -20,3 +20,5 @@
 <br />
 </div>
 
+<a href="/presentations/93_11_29_social_engineering.pdf" class="attachment">فایل ارائه آقای طحانیان در مورد مهندسی اجتماعی و امنیت اطلاعات</a>
+
