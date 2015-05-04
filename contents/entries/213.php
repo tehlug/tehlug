@@ -22,6 +22,10 @@
  سپس آقای پیام صادری به ادامه بحث آزاد در مورد <b>تولید محتوا </b> پرداخت .
 <br />
 <br />
+
+<a href="/presentations/94_02_09_GO.ogg" class="attachment"> دانلود فایل صوتی ارائه فرود غفوری</a>
+<br />
+<br />
 </div>
 
 <ul class="members bullet">
