@@ -25,6 +25,9 @@
 
 <a href="/presentations/94_02_09_GO.ogg" class="attachment"> دانلود فایل صوتی ارائه فرود غفوری</a>
 <br />
+<a href="https://github.com/fzerorubigd/tehlug-golang" class="attachment"> گیتهاب ارائه و اسلاید ها </a>
+
+<br />
 <br />
 </div>
 
