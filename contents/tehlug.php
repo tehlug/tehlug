@@ -29,9 +29,9 @@
 <br />
  <ul class="bullet">
 <li><a href="mailto:efazati@tehlug.org">محمد افاضاتی</a></li>
-<li><a href="mailto:mohsen@tehlug.org">محسن پهلوان‌زاده</a></li>
+<!-- <li><a href="mailto:mohsen@tehlug.org">محسن پهلوان‌زاده</a></li> -->
 <li><a href="mailto:behnam@tehlug.org">بهنام توکلی کرمانی</a></li>
-<li><a href="mailto:md@tehlug.org">محمد درویش</a></li>
+<!-- <li><a href="mailto:md@tehlug.org">محمد درویش</a></li> -->
 <li><a href="mailto:ashkan@tehlug.org">اشکان قاسمی</a></li>
 <li><a href="mailto:reza@tehlug.org">محمد‌رضا کمالی‌فرد</a></li>
 </ul>
