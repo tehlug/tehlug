@@ -20,6 +20,8 @@ Reactive Manifesto
 این جلسه با توجه به ماه رمضان یک ساعت زودتر از ساعت ۱۷ الی ۱۹ در محل نظام صنفی رایانه ای استان تهران برگزار می‌شود.
 <br />
 <br />
+<a href="/presentations/94-04-03_theReactiveManifesto.pdf" class="attachment">فایل ارائه آقای سامعی در مورد Reactive Manifesto </a><br />
+<br />
 </div>
 
 <ul class="members bullet">
