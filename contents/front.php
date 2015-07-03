@@ -67,7 +67,6 @@
 </a>
 <br />
 </div>
-35.738823, 51.434814
 
 <div class="dialog" style="float: left;">
 	<div class="yellow box">
