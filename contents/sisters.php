@@ -7,7 +7,7 @@
 </a>
 
 <a href="http://tabrizlug.com/">
-	<img src="images/lugs/tablug.jpg" class="photo" />
+	<img src="images/lugs/tabriz.png" class="photo" />
 </a>
 
 <a href="http://yazdlug.org/index.php?option=com_frontpage&Itemid=28">
