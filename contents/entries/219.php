@@ -23,9 +23,7 @@
 <a href="https://goo.gl/PxL4Hr">​لینک گوگل‌مپ</a>
 </p>
 <p>اطلاعات کامل در سایت تهران‌لاگ درج گردیده است: <a href="http://tehlug.org">www.TehLUG.org</a></p>
-</p>
 <strong>جزئیات برنامه‌ها:</strong>
-</p>
 <p>
 <strong>یک و نیم ساعت ابتدایی:</strong>
 <ul>
