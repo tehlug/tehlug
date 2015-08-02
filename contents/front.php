@@ -71,7 +71,7 @@
 			جشن ده سالگی لاگ
 	</div>
 
-<div style="width: 90%; text-align: justify; margin-left: auto; margin-right: auto;">
-	<img src="images/tehlug200-small.jpg" style="float: left; margin-right: 15px;" />
+<div style="width: 90%;">
+	<img src="images/tehlug200-small.jpg"/>
 	</div>
 </div>
