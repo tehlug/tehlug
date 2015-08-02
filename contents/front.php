@@ -54,16 +54,14 @@
 
 <div class="dialog center" style="float: right;">
 	<div class="blue box">
-			محل برگزاری جلسات
+			محل برگزاری جلسه ۲۱۹
 	</div>
-   	<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.4347106218338%2C35.735870830055354%2C51.43881976604462%2C35.738701136409404&layer=mapnik&marker=35.738823%2C51.434814"></iframe>
-گروه کاربران لینوکس تهران هر یک هفته در میان در روزهای چهارشنبه از ساعت <b>۱۸ الی ۲۰</b> 
-جلسه برگزار می‌کند.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3237.6691861981526!2d51.400563399999996!3d35.758935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd6f8c0337ff5a92!2z2YXZiNiz2LPZhyDYotmF2YjYsti0INi52KfZhNuMINiu2KfYqtmF!5e0!3m2!1sen!2sus!4v1438550347190" width="546" height="295" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br />
-<b> در ماه رمضان جلسات از ساعت ۱۷ الی ۱۹ برگزار می‌شوند‫.‬</b>
+<b> جشن از ساعت ۹ الی ۱۳‫:‬۳۰ روز پنج شنبه ۱۵ مرداد برگزار می‌شود‫.‬ </b>
 <br />
 <a href="http://www.openstreetmap.org/?mlat=35.738823&mlon=51.434814#map=16/35.7388/51.4337" target="_blank">
-<b>آدرس محل برگزاری جلسات: خیابان سهروردی شمالی، خیابان خرمشهر (آپادانا)، خیابان شهید عربعلی (نوبخت)، کوچه نهم، شماره ۱۳</b>
+<b>آدرس محل برگزاری جلسه جشن: خیابان ملاصدرا- خ شیراز شمالی - خ حکیم اعظم - پلاک ۳۰ - موسسه آموزش عالی خاتم </b>
 </a>
 <br />
 </div>
