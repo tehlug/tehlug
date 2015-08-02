@@ -72,6 +72,8 @@
 	</div>
 
 <div style="width: 90%;">
-	<img src="images/tehlug200-small.jpg"/>
+	<a href="images/tehlug200big.jpg"><img src="images/tehlug200-small.jpg"/ style="margin-left: 65px;</a>
+    margin-right: auto;
+    display: block;">
 	</div>
 </div>
