@@ -56,7 +56,7 @@
 	<div class="blue box" style="color: white;">
 			محل برگزاری جلسه ۲۱۹
 	</div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3237.6691861981526!2d51.400563399999996!3d35.758935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd6f8c0337ff5a92!2z2YXZiNiz2LPZhyDYotmF2YjYsti0INi52KfZhNuMINiu2KfYqtmF!5e0!3m2!1sen!2sus!4v1438550347190" width="546" height="295" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3237.6691861981526!2d51.400563399999996!3d35.758935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd6f8c0337ff5a92!2z2YXZiNiz2LPZhyDYotmF2YjYsti0INi52KfZhNuMINiu2KfYqtmF!5e0!3m2!1sen!2sus!4v1438550347190" width="546" height="295" frameborder="0" style="border:0;width: 100%;height: 100%;" allowfullscreen></iframe>
 <br />
 <b> جشن از ساعت ۹ الی ۱۳‫:‬۳۰ روز پنج شنبه ۱۵ مرداد برگزار می‌شود‫.‬ </b>
 <br />
