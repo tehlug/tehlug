@@ -3,7 +3,7 @@
 </div>
 
 <div class="title">
-
+جلسه دویست و بیست و یکم
 </div>
 
 <div class="subject">
@@ -11,7 +11,7 @@
 </div>
 
 <div class="date">
-1394/09/26
+1394/9/26
 </div>
 
 <div class="body">
