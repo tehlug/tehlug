@@ -47,14 +47,14 @@
 
 <div class="dialog center" style="float: right;">
 	<div class="blue box" style="color: white;">
-			محل برگزاری جلسه ۲۲۰
+			محل برگزاری جلسه ۲۲۱
 	</div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.994544273021!2d51.38477640000001!3d35.72635270000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f8e072b6c0c39f5%3A0xaf9b999c9c9a9f4a!2sAvatech+Accelerator!5e0!3m2!1sen!2sus!4v1441697967525" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.38390153646469%2C35.725580730265804%2C51.38578176498413%2C35.72692204587511&amp;layer=mapnik&amp;marker=35.72625139089366%2C51.38484165072441" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=35.72625&amp;mlon=51.38484#map=19/35.72625/51.38484">نمایش نقشهٔ بزرگ‌تر</a></small>
 <br />
-<b> <a herf="http://tehlug.org/index.php?page=entries/219">اطلاعیه کامل برگزاری جلسه ۲۲۰</a> </b>
+<b> <a herf="http://tehlug.org/index.php?page=entries/221">اطلاعیه کامل برگزاری جلسه ۲۲۱</a> </b>
 <br />
 <a href="https://goo.gl/maps/sLalx" target="_blank">
-<b>آدرس محل برگزاری جلسه ۲۲۰: خیابان کارگر شمالی (بالاتر از بزرگراه جلال آل احمد) - دانشکده‌های فنی دانشگاه تهران - ساختمان نفت - طبقه ۵ - آواتک </b>
+<b>آدرس محل برگزاری جلسهٔ ۲۲۱: خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵، آواتک </b>
 </a>
 <br />
 </div>
