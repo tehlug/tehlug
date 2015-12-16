@@ -1,4 +1,4 @@
-<div class="title">
+﻿<div class="title">
 	صفحه اصلی
 </div>
 
@@ -28,22 +28,15 @@
 	<ul class="entries">
 		<?php
 		$next = getNextSession();
-
 		foreach(getEntries(Null, 6) as $entry) {
 			echo '<li class="entry">';
-
 			if($entry == $next)
 				echo 'جلسه بعدی:';
-
 			echo '<a href="'.$entry->url.'">';
-
 			echo $entry->title;
-
 			echo '</a>';
-
 			if($entry->date)
 				echo "<div class='date'>".toPersian($entry->date)."</div>";
-
 			echo '</li>';
 		}
 		?>
@@ -54,24 +47,24 @@
 
 <div class="dialog center" style="float: right;">
 	<div class="blue box" style="color: white;">
-			محل برگزاری جلسه ۲۱۹
+			محل برگزاری جلسه ۲۲۱
 	</div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3237.6691861981526!2d51.400563399999996!3d35.758935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd6f8c0337ff5a92!2z2YXZiNiz2LPZhyDYotmF2YjYsti0INi52KfZhNuMINiu2KfYqtmF!5e0!3m2!1sen!2sus!4v1438550347190" width="546" height="295" frameborder="0" style="border:0;width: 100%;height: 100%;" allowfullscreen></iframe>
+<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.38390153646469%2C35.725580730265804%2C51.38578176498413%2C35.72692204587511&amp;layer=mapnik&amp;marker=35.72625139089366%2C51.38484165072441" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=35.72625&amp;mlon=51.38484#map=19/35.72625/51.38484">نمایش نقشهٔ بزرگ‌تر</a></small>
 <br />
-<b> جشن از ساعت ۹ الی ۱۳‫:‬۳۰ روز پنج شنبه ۱۵ مرداد برگزار می‌شود‫.‬ </b>
+<b> <a herf="http://tehlug.org/index.php?page=entries/221">اطلاعیه کامل برگزاری جلسه ۲۲۱</a> </b>
 <br />
-<a href="https://goo.gl/PxL4Hr" target="_blank">
-<b>آدرس محل برگزاری جلسه جشن: خیابان ملاصدرا- خ شیراز شمالی - خ حکیم اعظم - پلاک ۳۰ - موسسه آموزش عالی خاتم </b>
+<a href="https://goo.gl/maps/sLalx" target="_blank">
+<b>آدرس محل برگزاری جلسهٔ ۲۲۱: خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵، آواتک </b>
 </a>
 <br />
 </div>
 
 <div class="dialog" style="float: left;">
 	<div class="yellow box">
-			جشن ده سالگی لاگ
+			تصویری از جلسه ۲۱۹
 	</div>
 
 <div>
-	<a href="images/tehlug200big.jpg"><img src="images/tehlug200-small.jpg" style="margin: 0 auto; display: block;"></a>
+	<a href="images/tehlug219-pic-big.jpg"><img src="images/tehlug219-pic-thumb.jpg" style="margin: 0 auto; display: block;"></a>
 	</div>
 </div>
