@@ -11,7 +11,7 @@
 </div>
 
 <div class="date">
-1394/6/19
+1394/06/19
 </div>
 
 <div class="body">
