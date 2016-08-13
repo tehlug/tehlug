@@ -16,7 +16,7 @@
 	</li>
 	<li>
 		<a href="index.php?page=sessions">
-			گزارشات
+			گزارش‌ها
 		</a>
 	</li>
 	<li>
@@ -31,12 +31,12 @@
 	</li>
 	<li>
 		<a href="index.php?page=faqs">
-			سوالات متداول
+			پرسش‌های پرتکرار
 		</a>
 	</li>
 	<li>
 		<a href="index.php?page=sisters">
-			لاگ های دیگر
+			لاگ‌های دیگر
 		</a>
 	</li>
 	<li>
@@ -56,7 +56,7 @@
 	</li>
 	<li>
 		<a href="https://github.com/tehlug">
-			گیتهاب
+			گیت‌هاب
 		</a>
 	</li>
 
