@@ -21,7 +21,7 @@
 <a href="http://www.slideshare.net/MuhammadrezaHaghiri/openrisc-processor" class="notice">ارائه OpenRISC توسط محمدرضا حقیری</a>
 <br />
 <br />
-<a href="http://www.slideshare.net/AmirHosseinFaghihi/product-management-64020748" class="notice"> ارائهٔ libnanosmg توسط حمیدرضا سلیمانی</a>
+<a href="http://www.slideshare.net/hamidreza-s/nanomsg-scalable-networking-library" class="notice"> ارائهٔ libnanosmg توسط حمیدرضا سلیمانی</a>
 <br />
 <br />
 <!--
