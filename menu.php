@@ -41,7 +41,7 @@
 	</li>
 	<li>
 		<a href="index.php?page=irc">
-			گفتگوی زنده
+			گفت‌و‌گوی زنده
 		</a>
 	</li>
 	<li>
