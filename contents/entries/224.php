@@ -18,7 +18,18 @@
 جلسهٔ ۲۲۴ تهران لاگ در روز پنج‌شنبه مورخ ۲۱ مرداد ماه از ساعت ۱۴:۳۰ الی ۱۸ در محل «خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵، آواتک» برگزار خواهد شد. قبل از شروع جلسه، از ساعت ۱۳ تا ۱۴:۳۰ جلسهٔ کارگروه پایتون برگزار می‌شود. 
 <br />
 <br />
-<a href="https://evand.ir/events/TehLUG224" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
+<a href="http://www.slideshare.net/MuhammadrezaHaghiri/openrisc-processor" class="notice">ارائه OpenRISC توسط محمدرضا حقیری</a>
+<br />
+<br />
+<a href="http://www.slideshare.net/AmirHosseinFaghihi/product-management-64020748" class="notice"> ارائهٔ libnanosmg محصول توسط حمیدرضا سلیمانی</a>
+<br />
+<br />
+<!--
+<br />
+<br />
+<a href="http://www.slideshare.net/AmirHosseinFaghihi/product-management-64020748" class="notice"> ارائهٔ   راه اندازی سامانهٔ مرکز تماس تلفن بر پایهٔ الستیکس توسط علیرضا پورعابدین</a>
+
+-->
 <br />
 <br />
 
