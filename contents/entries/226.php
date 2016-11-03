@@ -20,10 +20,8 @@
 <br />
 <a href="https://evand.ir/events/TehLUG-226" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 
+<br />
 
-<br />
-<br />
-<br />
 <a href="/presentations/1395_07_15_ARDUINO_AND_OPEN_HARDWARE.odp" class="attachment">دریافت اسلایدهای آردینو و سخت افزار متن باز با فرمت او دی پی</a
 از ساعت ۱۳:۰۰ تا ۱۴:۳۰ جلسه گروه کاربران پایتون تهران برگزار خواهد شد.
 <br />
