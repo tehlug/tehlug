@@ -1,12 +1,12 @@
 <div class="type">
-	Session
+  Session
 </div>
 
 <div class="title">
 جلسهٔ دویست و بیست و هفتم
 </div>
 
-<div class="subject">	
+<div class="subject">
 جلسهٔ گروه کاربران گنو/لینوکس تهران
 </div>
 

@@ -1,12 +1,12 @@
 <div class="type">
-	Session
+  Session
 </div>
 
 <div class="title">
 جلسهٔ دویست و بیست و ششم
 </div>
 
-<div class="subject">	
+<div class="subject">
 جلسهٔ گروه کاربران گنو/لینوکس تهران
 </div>
 
@@ -20,7 +20,7 @@
 <br />
 <a href="https://evand.ir/events/TehLUG-226" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 
-<a href="/presentations/1395_07_15_ARDUINO_AND_OPEN_HARDWARE.odp" class="attachment">دریافت اسلایدهای آردینو و سخت افزار متن باز با فرمت او دی پی</a
+<a href="/presentations/1395_07_15_ARDUINO_AND_OPEN_HARDWARE.odp" class="attachment">دریافت اسلایدهای آردینو و سخت افزار متن باز با فرمت او دی پی</a>
 از ساعت ۱۳:۰۰ تا ۱۴:۳۰ جلسه گروه کاربران پایتون تهران برگزار خواهد شد.
 <br />
 <br />
@@ -53,4 +53,3 @@
 <br />
 <br />
 </div>
-
