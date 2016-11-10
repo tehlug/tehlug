@@ -22,6 +22,7 @@
 <a href="/presentations/95_08_20_securecoding.odp" class="attachment">دریافت اسلایدهای کدنویسی امن و اهمیت آن با فرمت او دی پی</a>
 <a href="/presentations/95_08_20_securecoding.pdf" class="attachment">دریافت اسلایدهای کدنویسی امن و اهمیت آن با فرمت پی دی اف</a>
 <div />
+<br />
 <div>
    از ساعت ۱۳:۰۰ تا ۱۴:۳۰ جلسه گروه کاربران پایتون تهران برگزار خواهد شد.
 </div>
