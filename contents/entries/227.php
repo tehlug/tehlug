@@ -21,6 +21,7 @@
 <a href="https://evand.ir/events/tehlug227?utm_source=events" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <a href="/presentations/95_08_20_securecoding.odp" class="attachment">دریافت اسلایدهای کدنویسی امن و اهمیت آن با فرمت او دی پی</a>
 <a href="/presentations/95_08_20_securecoding.pdf" class="attachment">دریافت اسلایدهای کدنویسی امن و اهمیت آن با فرمت پی دی اف</a>
+<a href="/videos/95_08_20_securecoding.mp4" class="attachment">دریافت اسکرین کست کدنویسی امن و اهمیت آن با فرمت ام پی 4</a>
 <div />
 <br />
 <div>
