@@ -10,7 +10,7 @@
 	<img src="images/lugs/tabriz.png" class="photo" />
 </a>
 
-<a href="http://yazdlug.org/index.php?option=com_frontpage&Itemid=28">
+<a href="http://yazdlug.net/forum/">
 	<img src="images/lugs/yazdlug.jpg" class="photo" />
 </a>
 
