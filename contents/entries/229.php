@@ -21,6 +21,7 @@
 <a href="/presentations/95_10_30_python_implementations.odp" class="attachment">دریافت اسلایدهای ارائه رضا شالباف زاده با فرمت او دی پی</a>
 <a href="/presentations/95_10_30_log_management_systems.odp" class="attachment">دریافت اسلایدهای ارائه مهدی حمیدی با فرمت او دی پی</a>
 <a href="/videos/95_10_30_log_management_systems.mp4" class="attachment">دریافت اسکرین کست ارائه مهدی حمیدی با فرمت ام پی 4</a>
+<a class="attachment" دریافت اسلایدهای ارائه مسعود صدرنژاد : ><a href="/presentations/95_10_30_Crawler.pdf">دریافت اسلاید بخش تئوری</a> - <a href="/presentations/95_10_30_what_is_ScraPy.odp">دریافت اسلایدهای بخش عملی</a> - <a href="/presentations/95_10_30_RequestsAndBeautifulSoupSampleCode.py">کدهای استفاده شده</a></a>
 </div>
 <div>
    از ساعت ۱۳:۰۰ تا ۱۴:۳۰ جلسه گروه کاربران پایتون تهران برگزار خواهد شد.
