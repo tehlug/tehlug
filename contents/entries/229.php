@@ -20,7 +20,7 @@
 <a href="https://evand.com/events/tehlug229" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <a href="/presentations/95_10_30_python_implementations.odp" class="attachment">دریافت اسلایدهای ارائه رضا شالباف زاده با فرمت او دی پی</a>
 <a href="/presentations/95_10_30_log_management_systems.odp" class="attachment">دریافت اسلایدهای ارائه مهدی حمیدی با فرمت او دی پی</a>
-<a href="/presentations/95_10_30_log_management_systems.mp4" class="attachment">دریافت اسکرین کست ارائه مهدی حمیدی با فرمت ام پی 4</a>
+<a href="/vodeo/95_10_30_log_management_systems.mp4" class="attachment">دریافت اسکرین کست ارائه مهدی حمیدی با فرمت ام پی 4</a>
 </div>
 <div>
    از ساعت ۱۳:۰۰ تا ۱۴:۳۰ جلسه گروه کاربران پایتون تهران برگزار خواهد شد.
