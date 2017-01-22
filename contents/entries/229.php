@@ -25,7 +25,6 @@
 <a href="/videos/95_10_30_log_management_systems.mp4" class="attachment">دریافت اسکرین کست ارائه مهدی حمیدی با فرمت ام پی 4</a>
 <a href="http://ce.sharif.edu/courses/95-96/1/ce324-1/resources/root/slides/Crawler.pdf" class="attachment">اسلایدهای بخش تئوری خزنده‌های وب از ارائهٔ مسعود صدرنژاد</a>
 <a href="http://www.slideshare.net/franciscoyes/scrapy-42681497" class="attachment">اسلایدهای بخش Scrapy از ارائهٔ مسعود صدرنژاد</a>
-<<<<<<< HEAD
 <a href="/presentations/95_10_30_RequestsAndBeautifulSoupSampleCode.py.zip" class="attachment">کد بخش BeautifulSoup و Requests از ارائهٔ مسعود صدرنژاد</a>
 </div>
 <div>
