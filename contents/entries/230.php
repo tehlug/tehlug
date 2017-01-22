@@ -17,10 +17,7 @@
 <div class="body">
 جلسهٔ ۲۳۰ گروه کاربران گنو/لینوکس تهران در روز پنج‌شنبه، ۲۱ بهمن ماه از ساعت ۱۳:۰۰ تا ۱۸ در محل «خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵، آواتک» برگزار خواهد شد.
 <br />
-  
-<a href="http://ce.sharif.edu/courses/95-96/1/ce324-1/resources/root/slides/Crawler.pdf" class="attachment">اسلایدهای بخش تئوری خزنده‌های وب از ارائهٔ مسعود صدرنژاد</a>
-<a href="http://www.slideshare.net/franciscoyes/scrapy-42681497" class="attachment">اسلایدهای بخش Scrapy از ارائهٔ مسعود صدرنژاد</a>
-<a href="/presentations/RequestsAndBeautifulSoupSampleCode.py" class="attachment">کد بخش BeautifulSoup و Requests از ارائهٔ مسعود صدرنژاد</a>
+ 
 
 </div>
 <div>
