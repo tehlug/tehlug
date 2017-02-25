@@ -18,7 +18,6 @@
 جلسهٔ ۲۳۰ گروه کاربران گنو/لینوکس تهران در روز پنج‌شنبه، ۲۱ بهمن ماه از ساعت ۱۳:۰۰ تا ۱۸ در محل «خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵، آواتک» برگزار خواهد شد.
 <br />
 <a href="https://evand.com/events/tehlug230" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
-<br />
 <a href="http://scanqt.com/scanqt-presentation-in-tehlug" class="attachment">مشاهده آنلاین ویدئوی ارائه اسکن‌کیوتی در لاگ تهران </a>
 <a href="http://qomac.ir/wp-content/uploads/tehlug_20170209_144610_ScanQT.mp4" class="attachment">دانلود ویدئوی ارائه اسکن‌کیوتی در لاگ تهران </a>
 <a href="http://scanqt.com" class="attachment">وبسایت اسکن‌کیوتی </a>
