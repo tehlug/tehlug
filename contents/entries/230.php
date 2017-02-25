@@ -19,10 +19,10 @@
 <br />
 <a href="https://evand.com/events/tehlug230" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <br />
-<a href="http://scanqt.com/scanqt-presentation-in-tehlug" class="attachment">مشاهده آنلاین ویدئوی ارائه اسکن‌کیوتی در لاگ تهران ׃</a>
-<a href="http://qomac.ir/wp-content/uploads/tehlug_20170209_144610_ScanQT.mp4" class="attachment">دانلود ویدئوی ارائه اسکن‌کیوتی در لاگ تهران ׃</a>
+<a href="http://scanqt.com/scanqt-presentation-in-tehlug" class="attachment">مشاهده آنلاین ویدئوی ارائه اسکن‌کیوتی در لاگ تهران </a>
+<a href="http://qomac.ir/wp-content/uploads/tehlug_20170209_144610_ScanQT.mp4" class="attachment">دانلود ویدئوی ارائه اسکن‌کیوتی در لاگ تهران </a>
 <a href="http://scanqt.com" class="attachment">وبسایت اسکن‌کیوتی </a>
-<a href="https://github.com/aqamorisny/scanqt/releases" class="attachment">انتشارها و سورس کدها روی گیت‌هاب ׃</a>
+<a href="https://github.com/aqamorisny/scanqt/releases" class="attachment">انتشارها و سورس کدها روی گیت‌هاب </a>
 </div>
 <div>
    از ساعت ۱۳:۰۰ تا ۱۴:۳۰ جلسه گروه کاربران پایتون تهران برگزار خواهد شد.
