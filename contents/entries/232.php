@@ -19,6 +19,8 @@
 <br />
 <a href="https://evand.com/events/tehlug232" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <br />
+<a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسه</a>
+<br />
 
 </div>
 <div>
