@@ -38,7 +38,7 @@
 <br />
 ارائهٔ فنّی نخست توسّط آقای دانیال گردی با موضوع  MariaDB Galera Cluster and HAProxy Load Balancing خواهد بود.
 <br />
-توضیحات: در یک جمله، (("از صفر تا داشتن یک دیتابیس کلاستر پایدار و Load Balancer")) معرفی اجمالی و اولیه در مورد MariaDB Galera ، مقایسه با دیگر کلاسترهای دیتابیس مثل MySQL Master Master و MySQL Master Slave ، راه اندازی اولیه و تست کلاستر ، معرفی HAProxy ، راه اندازی اولیه و تنظیم Load Balancing ، تست Failover.
+توضیحات: در یک جمله، "از صفر تا داشتن یک دیتابیس کلاستر پایدار و Load Balancer" معرفی اجمالی و اولیه در مورد MariaDB Galera ، مقایسه با دیگر کلاسترهای دیتابیس مثل MySQL Master Master و MySQL Master Slave ، راه اندازی اولیه و تست کلاستر ، معرفی HAProxy ، راه اندازی اولیه و تنظیم Load Balancing ، تست Failover.
 <br />
 <br />
 ارائهٔ فنّی دوم توسّط آقای محسن فریدمهر با موضوع SOC و نقش آن در امنیت خواهد بود.
