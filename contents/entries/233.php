@@ -22,8 +22,6 @@
 <a href="/presentations/96_03_11_SOC.pdf" class="attachment"" class="notice">ارائه SOC و نقش آن در امنیت توسط محسن فریدمهر</a>
 <br />
 <a href="http://sharif.edu/~ramsin/index_files/pselecture16.pdf" class="attachment"" class="notice">ارائه پادالگوها (Anti-pattern) در مهندسی نرم‌افزار توسط مسعود صدرنژاد</a>
-<br />
-
 </div>
 <div>
 <br />
