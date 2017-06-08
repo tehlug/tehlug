@@ -46,7 +46,7 @@
 	</li>
 	<li>
 		<a href="index.php?page=calendar">
-			تقویم
+			جلسات آینده
 		</a>
 	</li>
 	<li>
