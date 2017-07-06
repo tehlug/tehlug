@@ -19,6 +19,7 @@
 <br />
 <a href="https://evand.com/events/tehlug234" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسات</a>
+<a href="https://github.com/Mr0Null/PUG-234-test-files" class="attachment">جلسه پاگ توسط آقایان محمدامین واحدی‌نیا و میثم رشیدی با موضوع مقایسه فروم‌ورم‌های وب پایتون </a>
 <br />
 
 </div>
