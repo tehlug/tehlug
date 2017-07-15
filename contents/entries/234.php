@@ -21,7 +21,7 @@
 <a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسات</a>
 <a href="https://github.com/Mr0Null/PUG-234-test-files" class="attachment">جلسه پاگ توسط آقایان محمدامین واحدی‌نیا و میثم رشیدی با موضوع مقایسه فروم‌ورم‌های وب پایتون </a>
 <a href="https://www.slideshare.net/MohammadMoeinHossein/how-bitcoin-works-77642719" class="attachment">ارائه آقای محمدمعین حسینی منش با موضوع بیت کوین </a>
-<a href="/presentations/96_04_15_kubernetes.pdf" class="attachment">جلسه پاگ توسط آقایان محمدامین واحدی‌نیا و میثم رشیدی با موضوع مقایسه فروم‌ورم‌های وب پایتون </a>
+<a href="/presentations/96_04_15_kubernetes.pdf" class="attachment">ارائه آقای سالار مقدم با موضوع Kubernetes introduction</a>
 <br />
 
 </div>
