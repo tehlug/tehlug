@@ -1,5 +1,5 @@
 <?php
-	$keywords = $_POST['keywords'];
+	$keywords = htmlspecialchars($_POST['keywords']);
 	$results = Array();
 
 	if(strlen($keywords)) {
