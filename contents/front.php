@@ -49,12 +49,10 @@
 	<div class="blue box" style="color: white;">
 			محل برگزاری جلسه
 	</div>
-<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.38390153646469%2C35.725580730265804%2C51.38578176498413%2C35.72692204587511&amp;layer=mapnik&amp;marker=35.72625139089366%2C51.38484165072441" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=35.72625&amp;mlon=51.38484#map=19/35.72625/51.38484">نمایش نقشهٔ بزرگ‌تر</a></small>
+<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.38479471206666%2C35.7215435823938%2C51.39676809310914%2C35.726752205212414&amp;layer=mapnik&amp;marker=35.72620348675035%2C51.38484835624695"></iframe>
 <br />
-
-<br />
-<a href="https://goo.gl/maps/sLalx" target="_blank">
-<b>آدرس محل برگزاری جلسهٔ: خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵، آواتک </b>
+<a href="http://osm.org/go/zSTQ3TdR--?m=" target="_blank">
+<b>آدرس محل برگزاری جلسهٔ: خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵، آواتک</b>
 </a>
 <br />
 </div>
