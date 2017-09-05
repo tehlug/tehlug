@@ -1,5 +1,11 @@
 <?php
-	$keywords = htmlspecialchars($_POST['keywords']);
+	if(!isset($_POST['keywords'])){
+		echo "<div class='orange'>";
+		echo sprintf("%d نتیجه برای جسجتوی '%s' یافت شد.", 0, "");
+		echo "</div>";
+		exit();
+	}
+	$keywords = str_replace("'", "", trim(htmlspecialchars($_POST['keywords'])));
 	$results = Array();
 
 	if(strlen($keywords)) {
