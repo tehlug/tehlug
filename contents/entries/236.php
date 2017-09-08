@@ -20,6 +20,7 @@
 <a href="https://evand.com/TehLUG" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
 <a href="/presentations/96_06_16_release_strategy.odp" class="attachment">ارائهٔ آقای محمود مسیح تهرانی با موضوع Release strategy</a>
+<a href="https://smmsadrnezh.github.io/courses/tehlug/sessions/170907" class="attachment">ارائهٔ آقای مسعود صدرنژاد با موضوع  معرفی و مقایسهٔ الگوها و خانواده‌های الگوهای MV*</a>
 <br />
 
 </div>
