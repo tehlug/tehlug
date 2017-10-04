@@ -44,14 +44,14 @@
 از ساعت ۱۶:۳۰ الی ۱۹:۰۰ جلسه گروه کاربران لینوکس تهران برگزار خواهد شد.
 <br />
 <br />
-ارائهٔ فنّی نخست توسّط آقای محمود مسیح‌تهرانی با موضوع CI, CD for agile teams خواهد بود.
-<br />
-توضیحات: Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. continuous integration (CI) is the practice of merging all developer working copies to a shared mainline several times a day.
-<br />
-<br />
-ارائهٔ فنّی دوم توسّط آقای آرش طاهرکلاته با موضوع It's your legacy خواهد بود.
+ارائهٔ فنّی نخست توسّط آقای آرش طاهرکلاته با موضوع It's your legacy خواهد بود.
 <br />
 توضیحات: تجربه کار کردن با کدهایی که به من ارث رسید: چطور کدی بنویسیم که برنامه نویس بعدی از کار بر روی آن لذت ببرد.
+<br />
+<br />
+ارائهٔ فنّی دوم توسّط آقای محمود مسیح‌تهرانی با موضوع CI, CD for agile teams خواهد بود.
+<br />
+توضیحات: Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. continuous integration (CI) is the practice of merging all developer working copies to a shared mainline several times a day.
 <br />
 <br />
 ارائهٔ فنّی سوم توسّط سرکار خانم نفیسه آزاد با موضوع طبقه خلاق در شهر تهران خواهد بود.
