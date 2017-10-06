@@ -59,10 +59,10 @@
 
 <div class="dialog" style="float: left;">
 	<div class="yellow box">
-			تصویری از جلسه ۲۱۹
+			اشکان قاسمی در گذشت
 	</div>
 
 <div>
-	<a href="images/tehlug219-pic-big.jpg"><img src="images/tehlug219-pic-thumb.jpg" style="margin: 0 auto; display: block;"></a>
+	<a href="images/Ashkan_Ghasemi_banner_die_1_big.JPG"><img src="images/Ashkan_Ghasemi_banner_die_1_small.jpg" style="margin: 0 auto; display: block;"></a>
 	</div>
 </div>
