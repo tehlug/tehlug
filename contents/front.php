@@ -63,6 +63,6 @@
 	</div>
 
 <div>
-	<a href="images/Ashkan_Ghasemi_banner_die_1.jpg"><img src="images/Ashkan_Ghasemi_banner_die_1_small.jpg" style="margin: 0 auto; display: block;"></a>
+	<a href="images/Ashkan_Ghasemi_banner_die_1_small.jpg"><img src="images/Ashkan_Ghasemi_banner_die_1.jpg" style="margin: 0 auto; display: block;"></a>
 	</div>
 </div>
