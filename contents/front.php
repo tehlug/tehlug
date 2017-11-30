@@ -49,7 +49,7 @@
 	<div class="blue box" style="color: white;">
 			محل برگزاری جلسه
 	</div>
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.315958499908454%2C35.698327101400224%2C51.32194519042969%2C35.70086251319267&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/35.69959/51.31895">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.31663441658021%2C35.69831838850593%2C51.32262110710145%2C35.700853800575416&amp;layer=mapnik&amp;marker=35.69958610461807%2C51.31962776184082" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=35.69959&amp;mlon=51.31963#map=18/35.69959/51.31963">View Larger Map</a></small>
 <br />
 <a href="https://osm.org/go/zSR6uXsPt--?m=" target="_blank">
 <b>آدرس محل برگزاری جلسهٔ: جاده مخصوص کرج، جنب متروی بیمه، خط کندرو، بین کوچه بیمه 2 و بیمه 3، پلاک 31، (محل سابق کارخانه الکترودسازی آما) کارخانه نوآوری</b>
