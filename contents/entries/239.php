@@ -3,7 +3,7 @@
 </div>
 
 <div class="title">
-جلسهٔ دویست و سی و هشتم
+جلسهٔ دویست و سی و نه
 </div>
 
 <div class="subject">
@@ -11,7 +11,7 @@
 </div>
 
 <div class="date">
-1396/09/09
+1396/10/21
 </div>
 
 <div class="body">
