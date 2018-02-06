@@ -52,17 +52,17 @@
 <iframe  class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.31239652633668%2C35.694632748846196%2C51.32883310317994%2C35.70500089875785&amp;layer=mapnik&amp;marker=35.69962095563545%2C51.31982088088989"></iframe>
 <br />
 <a href="https://osm.org/go/zSR6udExU-?m=&node=3930789262" target="_blank">
-<b>آدرس محل برگزاری جلسهٔ:جاده مخصوص کرج، جنب متروی بیمه، خط کندرو، بین کوچه بیمه 2 و بیمه 3، پلاک 31، (محل سابق کارخانه الکترودسازی آما) کارخانه نوآوری</b>
+<b>آدرس محل برگزاری جلسه: خیابان کارگر شمالی، پردیس دانشکده‌های فنی دانشگاه تهران، پارکینگ کتابخانه قلمچی</b>
 </a>
 <br />
 </div>
 
 <div class="dialog" style="float: left;">
 	<div class="yellow box">
-			اشکان قاسمی در گذشت
+			تصویری از جلسه ۲۱۹
 	</div>
 
 <div>
-	<a href="images/Ashkan_Ghasemi_banner_die_1_small.jpg"><img src="images/Ashkan_Ghasemi_banner_die_1.jpg" style="margin: 0 auto; display: block;"></a>
+	<a href="images/tehlug219-pic-big.jpg"><img src="images/tehlug219-pic-thumb.jpg" style="margin: 0 auto; display: block;"></a>
 	</div>
 </div>
