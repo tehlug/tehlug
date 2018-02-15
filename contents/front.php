@@ -49,7 +49,7 @@
 	<div class="blue box" style="color: white;">
 			محل برگزاری جلسه
 	</div>
-<iframe  class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=51.31239652633668%2C35.694632748846196%2C51.32883310317994%2C35.70500089875785&amp;layer=mapnik&amp;marker=35.69962095563545%2C51.31982088088989"></iframe>
+<iframe  class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.383861303329475%2C35.72132582318769%2C51.39166116714478%2C35.72648220136216&layer=mapnik&marker=35.723904053993564%2C51.38776123523712"></iframe>
 <br />
 <a href="https://osm.org/go/zSR6udExU-?m=&node=3930789262" target="_blank">
 <b> آدرس محل برگزاری جلسه: خیابان کارگر شمالی، پردیس دانشکده‌های فنی دانشگاه تهران، پارکینگ کتابخانه قلمچی، شتاب‌دهنده دیموند</b>
