@@ -63,6 +63,6 @@
 	</div>
 
 <div>
-	<a href="images/Tehlug241_Big.JPG"><img src="images/Tehlug241_Thumb.JPG" style="margin: 0 auto; display: block;"></a>
+	<a href="photos/241/1396-12-16_241_01.JPG"><img src="images/Tehlug241_Thumb.JPG" style="margin: 0 auto; display: block;"></a>
 	</div>
 </div>
