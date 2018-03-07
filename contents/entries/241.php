@@ -49,7 +49,7 @@
 <br />
  ارائهٔ دوم لاگ توسّط آقای علی ترکی با موضوع Webpack خواهد بود. 
 <br />
-توضیحات: تکنولوژی های جدید Module bundler ها و تفاوت میان rollup & webpack & parcel.
+توضیحات: تکنولوژی های جدید Module bundler ها و تفاوت میان rollup ,webpack ,parcel.
 <br />
 <br />
 <Br />
