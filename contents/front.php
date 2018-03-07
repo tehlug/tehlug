@@ -59,7 +59,7 @@
 
 <div class="dialog" style="float: left;">
 	<div class="yellow box">
-			تصویری از جلسه ۲۱۹
+			تصویری از جلسه ۲۴۱
 	</div>
 
 <div>
