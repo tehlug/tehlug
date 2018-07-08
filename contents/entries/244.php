@@ -40,12 +40,12 @@
 از ساعت ۱۶:۳۰ الی ۱۹ جلسه گروه کاربران لینوکس تهران برگزار خواهد شد.
 <br />
 <br />
-ارائهٔ لاگ توسّط آقای کیان جلالی با موضوع Introduction to Akka(actor model) ,and Reactive systems خواهد بود.
+ارائهٔ اول توسّط خانم ستاره کریمی با موضوع Raspberry Pi Introdoction خواهد بود.
 <br />
-
+توضیح: در این جلسه توضیح مختصری درباره برد Raspberry Pi و کاربردهای آن داده می‌شود. سپس راه‌اندازی و نحوه اتصال به Raspberry pi بصورت عملی انجام خواهد شد.
 <br />
 <br />
-
+ارائهٔ دوم توسّط آقای کیان جلالی با موضوع Introduction to Akka(actor model) ,and Reactive systems خواهد بود.
 <br />
 
 <br />
