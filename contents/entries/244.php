@@ -21,7 +21,7 @@
 <a href="https://evand.com/TehLUG" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
 <br />
-
+<a href="https://doc.scrapy.org/en/latest/intro/tutorial.html" class="attachment">برای آشنایی و بازدهی بیشتر در کارگاه وب‌کاوی از این لینک استفاده کنید</a>
 </div>
 <div>
 <br />
@@ -34,20 +34,21 @@
 <br />
 
 <br />
-
+ارائه پاگ توسط آقای محمدرضا توکلی با موضوع کارگاه وب‌کاوی با استفاده از فریم‌ورک اسکریپی خواهد بود.
+<br />
 <br />
 <br />
 از ساعت ۱۶:۳۰ الی ۱۹ جلسه گروه کاربران لینوکس تهران برگزار خواهد شد.
 <br />
 <br />
-ارائهٔ اول توسّط خانم ستاره کریمی با موضوع Raspberry Pi Introdoction خواهد بود.
-<br />
-توضیح: در این جلسه توضیح مختصری درباره برد Raspberry Pi و کاربردهای آن داده می‌شود. سپس راه‌اندازی و نحوه اتصال به Raspberry pi بصورت عملی انجام خواهد شد.
-<br />
-<br />
-ارائهٔ دوم توسّط آقای کیان جلالی با موضوع Introduction to Akka(actor model) ,and Reactive systems خواهد بود.
+ارائهٔ اول توسّط آقای کیان جلالی با موضوع Introduction to Akka(actor model) ,and Reactive systems خواهد بود.
 <br />
 
+<br />
+<br />
+ارائهٔ دوم توسّط خانم ستاره کریمی با موضوع Raspberry Pi Introdoction خواهد بود.
+<br />
+توضیح: در این جلسه توضیح مختصری درباره برد Raspberry Pi و کاربردهای آن داده می‌شود. سپس راه‌اندازی و نحوه اتصال به Raspberry pi بصورت عملی انجام خواهد شد.
 <br />
 <br />
 </div>
