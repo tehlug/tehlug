@@ -52,7 +52,7 @@
 <iframe  class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.383861303329475%2C35.72132582318769%2C51.39166116714478%2C35.72648220136216&layer=mapnik&marker=35.723904053993564%2C51.38776123523712"></iframe>
 <br />
 <a href="https://osm.org/go/zSR6udExU-?m=&node=3930789262" target="_blank">
-<b> آدرس محل برگزاری جلسه: خیابان انقلاب، چهارراه کالج، کوچه سعیدی،‌پلاک ۵، پژوهشکده فناوری اطلاعات و ارتباطات</b>
+<b> آدرس محل برگزاری جلسه: دانشگاه امیرکبیر، سالن فجر</b>
 </a>
 <br />
 </div>
