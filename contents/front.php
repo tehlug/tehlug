@@ -49,9 +49,9 @@
 	<div class="blue box" style="color: white;">
 			محل برگزاری جلسه
 	</div>
-<iframe  class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.383861303329475%2C35.72132582318769%2C51.39166116714478%2C35.72648220136216&layer=mapnik&marker=35.723904053993564%2C51.38776123523712"></iframe>
+<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.406611800193794%2C35.702970938575%2C51.412598490715034%2C35.705362452766565&amp;layer=mapnik&amp;marker=35.70416670463828%2C51.40960514545441"></iframe>
 <br />
-<a href="https://osm.org/go/zSR6udExU-?m=&node=3930789262" target="_blank">
+<a href="https://www.openstreetmap.org/?mlat=35.70417&amp;mlon=51.40961#map=18/35.70417/51.40961&amp;layers=N" target="_blank">
 <b> آدرس محل برگزاری جلسه: دانشگاه امیرکبیر، سالن فجر</b>
 </a>
 <br />
