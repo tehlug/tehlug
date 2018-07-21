@@ -21,7 +21,6 @@
 
 <a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" target="_blank" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
 
-</a>
 </div>
 <div>
 <br />
