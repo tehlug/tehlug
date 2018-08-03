@@ -22,6 +22,9 @@
 <a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" target="_blank" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
 <br />
 <a href="https://doc.scrapy.org/en/latest/intro/tutorial.html" target="_blank" class="attachment">برای آشنایی و بازدهی بیشتر در کارگاه وب‌کاوی از این لینک استفاده کنید</a>
+<a href="http://github.com/hajjijo/tlug-akka-workshop" class="attachment">مشاهده فایل ارائه‌ی Akka در گیت‌هاب</a>
+<a href="https://www.youtube.com/playlist?list=PL0VCey_90Ht7Bln71vym9gdf9cuUgrT0L" class="attachment">مشاهده فیلم توضیحاتی در مورد Akka در یوتیوب</a>
+<a href="http://tiny.cc/5swbwy" class="attachment">مشاهده فایل ارايه Akka</a>
 </div>
 <div>
 <br />
