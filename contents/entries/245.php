@@ -21,7 +21,6 @@
 
 <a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" target="_blank" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
 <a href="https://evand.com/TehLUG" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
-<a href="https://f-droid.org/app/org.sufficientlysecure.keychain" target="_blank" class="attachment">لینک دانلود برنامه openkeychain</a>
 </div>
 <div>
 <br />
@@ -41,9 +40,9 @@
 از ساعت ۱۶:۳۰ الی ۱۹ جلسه گروه کاربران لینوکس تهران برگزار خواهد شد.
 <br />
 <br />
-در این جلسه آشنایی با رمزنگاری بصورت کاربردی و یک دورهمی برای امضای کلید خواهیم داشت.
+این جلسه بصورت دورهمی و رفع اشکال خواهد بود.
 <br />
-توجه : علاقه‌مندان می‌توانند برنامه OpenKeyChain را برای همین منظور از f-droid نصب کنند.
+
 <br />
 <br />
 
