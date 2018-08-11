@@ -52,7 +52,7 @@
 <iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.406611800193794%2C35.702970938575%2C51.412598490715034%2C35.705362452766565&amp;layer=mapnik&amp;marker=35.70416670463828%2C51.40960514545441"></iframe>
 <br />
 <a href="https://www.openstreetmap.org/?mlat=35.70417&amp;mlon=51.40961#map=18/35.70417/51.40961&amp;layers=N" target="_blank">
-<b> آدرس محل برگزاری جلسه: دانشگاه امیرکبیر، سالن فجر</b>
+<b> آدرس محل برگزاری جلسه: دبین میرعماد و سرافراز پلاک ۳۴۰ ساختمان چهارباغ طبقه دوم شرکت رهنما</b>
 </a>
 <br />
 </div>
