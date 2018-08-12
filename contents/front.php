@@ -49,9 +49,9 @@
 	<div class="blue box" style="color: white;">
 			محل برگزاری جلسه
 	</div>
-<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.406611800193794%2C35.702970938575%2C51.412598490715034%2C35.705362452766565&amp;layer=mapnik&amp;marker=35.70416670463828%2C51.40960514545441"></iframe>
+<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.42111986875535%2C35.72880986578092%2C51.42411321401596%2C35.73002701775199&amp;layer=mapnik&amp;marker=35.729418444091415%2C51.42261654138565"></iframe>
 <br />
-<a href="https://www.openstreetmap.org/?mlat=35.70417&amp;mlon=51.40961#map=18/35.70417/51.40961&amp;layers=N" target="_blank">
+<a href="https://osm.org/go/zSTTAk5fj?layers=N&m=" target="_blank">
 <b> آدرس محل برگزاری جلسه: بین میرعماد و سرافراز پلاک ۳۴۰ ساختمان چهارباغ طبقه دوم شرکت رهنما</b>
 </a>
 <br />
