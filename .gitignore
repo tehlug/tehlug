@@ -3,4 +3,5 @@ presentations
 stats
 audios
 videos
-
+.idea
+scripts/deploy.sh
