@@ -49,7 +49,7 @@
 	<div class="blue box" style="color: white;">
 			محل برگزاری جلسه
 	</div>
-<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.41274333000184%2C35.725820252566784%2C51.42473816871643%2C35.731176654053016&layer=mapnik&marker=35.729418444091415%2C51.42261654138565"></iframe>
+<iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.41039371490479%2C35.76676144406816%2C51.4124482870102%2C35.76809988960662&amp;layer=mapnik&amp;marker=35.76742958148567%2C51.41142100095749"></iframe>
 <br />
 <a href="https://osm.org/go/zSTR~kiT~" target="_blank">
 <b> آدرس محل برگزاری جلسه: خیابان ولیعصر، پایین‌تر از شهید وحید دستگردی ( ظفر )، خیابان شهید یزدان پناه، ساختمان شماره ۲ وزارت ارتباطات</b>
