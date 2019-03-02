@@ -51,8 +51,8 @@
 	</div>
 <iframe class="map" width="546" height="295" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=51.41274333000184%2C35.725820252566784%2C51.42473816871643%2C35.731176654053016&layer=mapnik&marker=35.729418444091415%2C51.42261654138565"></iframe>
 <br />
-<a href="https://osm.org/go/zSTTAk5fj?layers=N&m=" target="_blank">
-<b> آدرس محل برگزاری جلسه: خیابان بهشتی، بین میرعماد و سرافراز پلاک ۳۴۰ ساختمان چهارباغ طبقه دوم شرکت رهنما</b>
+<a href="https://osm.org/go/zSTR~kiT~" target="_blank">
+<b> آدرس محل برگزاری جلسه: خیابان ولیعصر، پایین‌تر از شهید وحید دستگردی ( ظفر )، خیابان شهید یزدان پناه، ساختمان شماره ۲ وزارت ارتباطات</b>
 </a>
 <br />
 </div>
