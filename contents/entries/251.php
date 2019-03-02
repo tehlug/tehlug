@@ -3,7 +3,7 @@
 </div>
 
 <div class="title">
-جلسهٔ دویست و پنجاه و
+جلسهٔ دویست و پنجاه و یک
 </div>
 
 <div class="subject">
