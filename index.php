@@ -12,20 +12,19 @@ include_once('functions.php');
 		<link rel="icon" href="images/favicon.png" />
 	</head>
 	<body>
-		<div class="container-fluid p-0 m-0">
+		<div class="container-fluid p-0 m-0 text-right">
 			<div id="header">
 				<div id="menu_container">
 					<?php
 					include('menu.php');
 					?>
-
-					<div id="search_box">
-						<form action="index.php?page=search" method="POST">
-							<input type="text" name="keywords" value="<?php if(isset($_POST['keywords'])) { echo $_POST['keywords']; } ?>" />
-							<input type="submit" name="submit" value="جستجو" />
-						</form>
-					</div>
 				</div>
+                <div class="col ml-4" id="search_box">
+                    <form action="index.php?page=search" method="POST">
+                        <input type="text" name="keywords" value="<?php if(isset($_POST['keywords'])) { echo $_POST['keywords']; } ?>" />
+                        <input type="submit" name="submit" value="جستجو" />
+                    </form>
+                </div>
 			</div>
 
 			<div class="col mr-0 row mt-3">
