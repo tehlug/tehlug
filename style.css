@@ -79,8 +79,9 @@ img {
 }
 
 #search_box {
-	float: left;
-	margin-left: 10px;
+	right: 22px;
+	top: 10px;
+	position: relative;
 }
 
 #content {
