@@ -6,12 +6,13 @@ include_once('functions.php');
 		<title>Tehran Linux Users Group</title>
 
 		<meta http-equiv="content-type" content="text-html; charset=UTF-8" />
-		<link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="style.css" />
 		<link rel="alternate" type="application/rss+xml" href="rss.php" />
 		<link rel="icon" href="images/favicon.png" />
 	</head>
 	<body>
-		<div id="container">
+		<div class="container-fluid p-0 m-0">
 			<div id="header">
 				<div id="menu_container">
 					<?php
@@ -27,7 +28,7 @@ include_once('functions.php');
 				</div>
 			</div>
 
-			<div id="content">
+			<div class="col mr-0 row mt-3">
 				<?php
 				$page = (isset($_GET['page'])) ? $_GET['page'] : "front";
 
@@ -56,6 +57,10 @@ include_once('functions.php');
                     }
 				?>
 			</div>
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 			<!-- Piwik -->
 			 <script type="text/javascript">
 			  var pkBaseURL = (("https:" == document.location.protocol) ? "https://tehlug.org/stats/" : "http://tehlug.org/stats/");
