@@ -6,23 +6,23 @@ include_once('functions.php');
 		<title>Tehran Linux Users Group</title>
 
 		<meta http-equiv="content-type" content="text-html; charset=UTF-8" />
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="./assets/bootstrap4.css">
+        <link rel="stylesheet" href="./style.css" />
 		<link rel="alternate" type="application/rss+xml" href="rss.php" />
 		<link rel="icon" href="images/favicon.png" />
 	</head>
 	<body>
-		<div class="container-fluid p-0 m-0 text-right">
+		<div class="overflow-hidden container-fluid p-0 m-0 text-right">
 			<div id="header">
 				<div id="menu_container">
 					<?php
 					include('menu.php');
 					?>
 				</div>
-                <div class="col ml-4" id="search_box">
+                <div class="col" id="search_box">
                     <form action="index.php?page=search" method="POST">
                         <input type="text" name="keywords" value="<?php if(isset($_POST['keywords'])) { echo $_POST['keywords']; } ?>" />
-                        <input type="submit" name="submit" value="جستجو" />
+                        <input class="btn btn-outline-dark" type="submit" name="submit" value="جستجو" />
                     </form>
                 </div>
 			</div>
