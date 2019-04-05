@@ -1,7 +1,7 @@
 <?php
   define('ENTRIES_DIRECTORY', 'contents/entries');
 
-  function getEntries($type = Null, $limit = Null) {
+  function getEntries($type = null, $limit = null) {
     $entries = array();
 
     $dir = opendir(ENTRIES_DIRECTORY);
@@ -12,7 +12,7 @@
       if($entryFile{0} == '.') //Dont show hidden files
         continue;
 
-      $entryName = str_replace('.php', Null, $entryFile);
+      $entryName = str_replace('.php', null, $entryFile);
       $entry = getEntry($entryName);
 
       if($type && $entry->type != $type) {
@@ -26,7 +26,7 @@
     krsort($entries);
 
     if($limit)
-      $entries = array_slice($entries, 0, $limit, True);
+      $entries = array_slice($entries, 0, $limit, true);
 
     return $entries;
   }
@@ -78,6 +78,6 @@
   }
 
   function filenameToId($fileName) {
-    return str_replace(array('contents/', '.php'), Null, $fileName);
+    return str_replace(array('contents/', '.php'), null, $fileName);
   }
 ?>

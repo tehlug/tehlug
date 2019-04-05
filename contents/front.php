@@ -35,7 +35,7 @@
     <ul class="entries">
         <?php
         $next = getNextSession();
-        foreach (getEntries(Null, 6) as $entry) {
+        foreach (getEntries(null, 6) as $entry) {
             echo '<li class="entry">';
             if ($entry == $next)
                 echo 'جلسه بعدی:';

@@ -18,7 +18,7 @@
 
 			$result = stristr($stripped_content, $keywords);
 
-			if($result === False)
+			if($result === false)
 				continue;
 
 			$results[] = array(
