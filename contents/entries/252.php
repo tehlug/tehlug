@@ -21,6 +21,7 @@
 <br />
 <br />
 <a href="https://evand.com/TehLUG252" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
+<a href="https://github.com/tehpug/TehPUGsessionsfiles/tree/master/presentations/57-980122" class="attachment">لینک گیت‌هاب کارگاه تهران‌پاگ</a>
 </div>
 <div>
 <br />
