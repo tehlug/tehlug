@@ -18,9 +18,7 @@
 جلسهٔ ۲۴۸ گروه کاربران گنو/لینوکس تهران در روز پنجشنبه، ۲۹ آذر ماه از ساعت ۱۵ الی ۱۸ در شرکت سریر به آدرس : "خیابان طرشت، خیابان گلاب، پلاک ۵۹، طبقه اول" برگزار می‌گردد. شرکت در این رویداد همانند جلسات گذشته برای کلیه علاقه‌مندان، آزاد و رایگان می‌باشد.
 <br />
 <br />
-
-<a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" target="_blank" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
-<a href="https://evand.com/TehLUG" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
+<a href="https://evand.com/TehLUG248" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <a href="https://archive.org/details/TEHLUG249NextcloudMasoudAbkenar720p" class="attachment">فیلم ارائه مسعود آبکنار با موضوع آشنایی با Next Cloud‎</a>
 </div>
 <div>

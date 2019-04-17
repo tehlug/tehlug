@@ -17,8 +17,7 @@
 <div class="body">
 جلسهٔ  ۲۳۶ گروه کاربران گنو/لینوکس تهران در روز پنج‌شنبه، ۱۶ شهریور ماه از ساعت ۱۴:۳۰ الی ۱۹ در محل شتاب‌دهنده آواتک به نشانی «خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل‌احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵» برگزار خواهد شد. شرکت در این رویداد همانند جلسات گذشته برای کلیه علاقه‌مندان، آزاد و رایگان می‌باشد.
 <br />
-<a href="https://evand.com/TehLUG" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
-<a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
+<a href="https://evand.com/TehLUG236" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 <a href="/presentations/96_06_16_release_strategy.odp" class="attachment">ارائهٔ آقای محمود مسیح تهرانی با موضوع Release strategy</a>
 <a href="http://sadrnezhaad.ir/smm/_media/en/courseware/tehlug/sessions/170907/slides/mv-star-patterns.html" class="attachment">ارائهٔ آقای مسعود صدرنژاد با موضوع  معرفی و مقایسهٔ الگوها و خانواده‌های الگوهای MV*‎</a>
 <br />
