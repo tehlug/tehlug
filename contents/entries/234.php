@@ -18,7 +18,6 @@
 جلسهٔ  ۲۳۴ گروه کاربران گنو/لینوکس تهران در روز پنج‌شنبه، ۱۵ تیر ماه از ساعت ۱۴:۳۰ الی ۱۹ در محل شتاب‌دهنده آواتک به نشانی «خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل‌احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵» برگزار خواهد شد. شرکت در این رویداد همانند جلسات گذشته برای کلیه علاقه‌مندان، آزاد و رایگان می‌باشد.
 <br />
 <a href="https://evand.com/events/tehlug234" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
-<a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسات</a>
 <a href="https://github.com/Mr0Null/PUG-234-test-files" class="attachment">جلسه پاگ توسط آقایان محمدامین واحدی‌نیا و میثم رشیدی با موضوع مقایسه فروم‌ورم‌های وب پایتون </a>
 <a href="https://www.slideshare.net/MohammadMoeinHossein/how-bitcoin-works-77642719" class="attachment">ارائه آقای محمدمعین حسینی منش با موضوع بیت کوین </a>
 <a href="/presentations/96_04_15_kubernetes.pdf" class="attachment">ارائه آقای سالار مقدم با موضوع Kubernetes introduction</a>

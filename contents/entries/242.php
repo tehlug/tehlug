@@ -19,7 +19,6 @@
 <br />
 <br />
 <a href="https://evand.com/TehLUG242" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
-<a href="https://goo.gl/forms/y4qHHkNJ9DY4LElF2" class="notice">فرم ارسال ارائه برای جلسات آینده</a>
 <br />
 
 </div>

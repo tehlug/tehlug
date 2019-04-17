@@ -1,8 +1,8 @@
 <?php
 echo '<?xml version="1.0" encoding="UTF-8" ?>';
 include_once('functions.php');
-$entries = getEntries(Null, 20);
-$baseUrl = 'http://'.str_replace('rss.php', Null, $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
+$entries = getEntries(null, 20);
+$baseUrl = 'http://'.str_replace('rss.php', null, $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
 ?>
 <rss version="2.0">
 <channel>

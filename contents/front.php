@@ -35,7 +35,7 @@
     <ul class="entries">
         <?php
         $next = getNextSession();
-        foreach (getEntries(Null, 6) as $entry) {
+        foreach (getEntries(null, 6) as $entry) {
             echo '<li class="entry">';
             if ($entry == $next)
                 echo 'جلسه بعدی:';
@@ -60,8 +60,7 @@
             src="https://www.openstreetmap.org/export/embed.html?bbox=51.41039371490479%2C35.76676144406816%2C51.4124482870102%2C35.76809988960662&amp;layer=mapnik&amp;marker=35.76742958148567%2C51.41142100095749"></iframe>
     <br/>
     <a href="https://osm.org/go/zSTR~kiT~" target="_blank">
-        <b> آدرس محل برگزاری جلسه: خیابان ولیعصر، پایین‌تر از شهید وحید دستگردی ( ظفر )، خیابان شهید یزدان پناه، ساختمان
-            شماره ۲ وزارت ارتباطات</b>
+        <b> آدرس محل برگزاری جلسه: میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری، فضای اشتراکی زاویه</b>
     </a>
     <br/>
 </div>
