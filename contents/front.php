@@ -59,7 +59,7 @@
     <iframe class="map col"  frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
             src="https://www.openstreetmap.org/export/embed.html?bbox=51.41039371490479%2C35.76676144406816%2C51.4124482870102%2C35.76809988960662&amp;layer=mapnik&amp;marker=35.76742958148567%2C51.41142100095749"></iframe>
     <br/>
-    <a href="https://osm.org/go/zSTR~kiT~" target="_blank">
+    <a href="https://osm.org/go/zSR6uXnqk--?m=" target="_blank">
         <b> آدرس محل برگزاری جلسه: میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری، فضای اشتراکی زاویه</b>
     </a>
     <br/>
