@@ -19,7 +19,8 @@
 <br />
 <br />
 <a href="https://evand.com/TehLUG248" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
-<a href="https://archive.org/details/TEHLUG249NextcloudMasoudAbkenar720p" class="attachment">فیلم ارائه مسعود آبکنار با موضوع آشنایی با Next Cloud‎</a>
+<a href="http://tehlug.org/presentations/97_09_29_Nextcloud.mp4" class="attachment">فیلم ارائه مسعود آبکنار با موضوع آشنایی با Next Cloud‎ بصورت مستقیم</a>
+<a href="https://archive.org/details/TEHLUG249NextcloudMasoudAbkenar720p" class="attachment">فیلم ارائه مسعود آبکنار با موضوع أشنایی با Next Cloud در سایت Archive.org</a>
 </div>
 <div>
 <br />
