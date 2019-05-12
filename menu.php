@@ -35,7 +35,7 @@
 		</a>
 	</li>
 	<li>
-		<a href="index.php?page=sisters">
+		<a href="https://lugs.ir/">
 			لاگ‌های دیگر
 		</a>
 	</li>
