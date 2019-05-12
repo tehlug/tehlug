@@ -35,7 +35,7 @@
 		</a>
 	</li>
 	<li>
-		<a href="https://lugs.ir/">
+		<a target="_blank" href="https://lugs.ir/">
 			لاگ‌های دیگر
 		</a>
 	</li>
