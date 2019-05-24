@@ -22,7 +22,7 @@
 درصورتی که میخواهید ارائه یا کارگاهی داشته باشید در گروه تلگرامی به ادمین‌های گروه تهران‌لاگ و تهران‌پاگ اعلام نمایید.
 <br />
 <br />
-<a href="https://evand.com/TehLUG" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
+<a href="https://evand.com/TehLUG253" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 </div>
 <div>
 <br />
