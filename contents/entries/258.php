@@ -22,7 +22,7 @@
 
 <br />
 <br />
-<a href="https://evand.com/TehLUG" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
+<a href="https://evand.com/TehLUG258" target="_blank" class="notice">ثبت‌نام رایگان جهت حضور در جلسه</a>
 </div>
 <div>
 <br />
