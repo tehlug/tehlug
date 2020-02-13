@@ -30,6 +30,7 @@
 <br />
 <br />
  <ul class="bullet">
+<li><a href="mailto:tehlug@gmali.com">ایمیل تهلاگ</a></li>
 <li><a href="mailto:efazati@tehlug.org">محمد افاضاتی</a></li>
 <!-- <li><a href="mailto:mohsen@tehlug.org">محسن پهلوان‌زاده</a></li> -->
 <li><a href="mailto:behnam@tehlug.org">بهنام توکلی کرمانی</a></li>
@@ -38,7 +39,7 @@
 <li><a href="mailto:reza@tehlug.org">محمد‌رضا کمالی‌فرد</a></li>
 <li>امیرحسین گودرزی</li>
 <li>سعید علیجانی</li>
-<li>رامین فیاض زاده</li>
+<li><a href="mailto:ramin.fayyaz91@gmail.com">رامین فیاض زاده</li>
 </ul>
 
 <span class="notice">در صورت تمایل برای ارائه در تهران‌لاگ و یا همکاری با تیم گرداننده میتوانید با اعضای تیم گرداننده تماس حاصل کنید و یا در لیست پستی عضو شده و موضوع را با دیگر اعضای گروه درمیان بگذارید.
