@@ -22,7 +22,7 @@
 
 <br />
 <br />
-<a href="https://meet.tehlug.org/263" target="_blank" class="notice">ورود به میتینگ تهلاگ</a>
+<a href="https://meet.tehlug.org/263" target="_blank" class="notice">ورود به وبینار تهلاگ</a>
 </div>
 <div>
 <br />
@@ -35,7 +35,7 @@
 <br />
 ۱) ارائه اول توسط آقای امیرحسین گودرزی با موضوع راهی بسوی DevOps
 <br />
-۲) ارائه دوم توسط آقای امین جوادی با موضوع دوستی با Z Shell
+۲) ارائه دوم توسط آقای سید محمد امین جوادی با موضوع دوستی با Z Shell
 <br />
 
 <br />
